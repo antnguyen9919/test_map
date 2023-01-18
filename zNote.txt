@@ -1,0 +1,151 @@
+import React, { useMemo } from 'react'
+import {
+  MapContainer,
+  TileLayer,
+  useMap,
+  Marker,
+  GeoJSON,
+  Popup,
+  Polygon,
+  useMapEvent,
+  LayersControl,
+  FeatureGroup,
+  Polyline
+} from 'react-leaflet-new'
+// import 'leaflet/dist/leaflet.css'
+import styles from './Map.module.css'
+import 'leaflet/dist/leaflet.css'
+import L from 'leaflet'
+import { useTransitionsContext } from './TransitionsContext'
+const mapClassName = styles.map
+function getVoivodeshipName(feature, layer) {
+  if (feature.properties && feature.properties.name) {
+    layer.bindPopup(feature.properties.name)
+  }
+}
+function onEachFeature(feature, layer) {
+  layer.on('mouseover', function (e) {
+    getVoivodeshipName(feature, layer)
+
+    this.openPopup()
+
+    // style
+    this.setStyle({
+      fillColor: '#FFFF00',
+      weight: 2,
+      color: '#FFFF00',
+      fillOpacity: 0.7
+    })
+  })
+
+  layer.on('mouseout', function () {
+    this.closePopup()
+    // style
+    this.setStyle({
+      fillColor: '#3388ff',
+      weight: 2,
+      color: '#3388ff',
+      fillOpacity: 0.2
+    })
+  })
+}
+const TransitionsMap = ({ init_zoom, center }) => {
+  const { displayAll, polylineData, polygonsGeoJSON } = useTransitionsContext()
+  // const transformedGeoJSON = useMemo(() => {
+  //   if (!polygonsGeoJSON.length) {
+  //     return []
+  //   }
+  //   const tf = polygonsGeoJSON.map(item => {
+  //     return {
+  //       ...item.properties,
+  //       geometry: {
+  //         ...item.geometry,
+  //         coordinates: item.geometry.coordinates[0].map(coor => {
+  //           return [coor[1], coor[0]]
+  //         })
+  //       }
+  //     }
+  //   })
+  //   return tf
+  // }, [polygonsGeoJSON])
+  // console.log(transformedGeoJSON)
+  if (typeof window === 'undefined') return null
+  return (
+    <div>
+      <MapContainer className={mapClassName} maxZoom={24} center={center} zoom={init_zoom} scrollWheelZoom={false}>
+        <TileLayer
+          maxNativeZoom={19}
+          maxZoom={24}
+          attribution='&copy; <a href="http://cartodb.com/attributions">CartoDB</a> contributors'
+          url='https://{s}.basemaps.cartocdn.com/rastertiles/dark_all/{z}/{x}/{y}.png'
+        />
+        {polygonsGeoJSON.length && (
+          <GeoJSON
+            // style={{ fillColor: '#fff', weight: 2, color: '#fff', fillOpacity: 0.2 }}
+            data={polygonsGeoJSON}
+            onEachFeature={onEachFeature}
+          />
+        )}
+        <FeatureGroup>
+          {polylineData.length && displayAll
+            ? polylineData.map((line, id) => {
+                return (
+                  <Polyline
+                    interactive={false}
+                    key={id}
+                    color={'red'}
+                    opacity={0.7}
+                    weight={1}
+                    positions={line.coords}
+                  />
+                )
+              })
+            : null}
+          {/* {transformedGeoJSON.length
+            ? transformedGeoJSON.map((item, idx) => {
+                const positions = item.geometry.coordinates
+                {
+                  console.log(positions)
+                }
+                return (
+                  <Polygon
+                    key={idx}
+                    pathOptions={{ color: 'red' }}
+                    onEachFeature={onEachFeature}
+                    positions={positions}
+                  />
+                )
+              })
+            : null} */}
+        </FeatureGroup>
+      </MapContainer>
+    </div>
+  )
+}
+
+export default TransitionsMap
+.leaflet-image-layer {
+  -webkit-filter: invert(95%) grayscale(100%) brightness(80%);
+  filter: invert(95%) grayscale(100%) brightness(80%);
+}
+.tooltip-transparent {
+  padding: 3px;
+  font-size: 11px;
+  border: none !important;
+  box-shadow: none !important;
+  color: red;
+  background-color: transparent !important;
+}
+ <TileLayer
+          maxNativeZoom={19}
+          maxZoom={24}
+          attribution='&copy; <a href="http://cartodb.com/attributions">CartoDB</a> contributors'
+          url='https://{s}.basemaps.cartocdn.com/rastertiles/dark_all/{z}/{x}/{y}.png'
+        />
+        <TileLayer
+          ref={tileRef}
+          maxNativeZoom={19}
+          maxZoom={24}
+          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+          url='http://ariadnetiles.device-analytics.com/hot1/{z}/{x}/{y}.png'
+        />

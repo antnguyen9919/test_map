@@ -1,0 +1,4425 @@
+{
+  "final_data": [
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183486,
+              21.55791
+            ],
+            [
+              39.183501,
+              21.557838
+            ],
+            [
+              39.183542,
+              21.557845
+            ],
+            [
+              39.18355,
+              21.557808
+            ],
+            [
+              39.183588,
+              21.557815
+            ],
+            [
+              39.183558,
+              21.557962
+            ],
+            [
+              39.183519,
+              21.557955
+            ],
+            [
+              39.183527,
+              21.557917
+            ],
+            [
+              39.183486,
+              21.55791
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 103.0523,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557808,
+          "lat_max": 21.557962,
+          "lng_min": 39.183486,
+          "lng_max": 39.183588
+        },
+        "name": "0125 Armchairs,",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "01 Living room seating",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182893,
+              21.557613
+            ],
+            [
+              39.182917,
+              21.5575
+            ],
+            [
+              39.182992,
+              21.557513
+            ],
+            [
+              39.182978,
+              21.557578
+            ],
+            [
+              39.182998,
+              21.557582
+            ],
+            [
+              39.182987,
+              21.55763
+            ],
+            [
+              39.182893,
+              21.557613
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 112.7221,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.5575,
+          "lat_max": 21.55763,
+          "lng_min": 39.182893,
+          "lng_max": 39.182998
+        },
+        "name": "0511 Mattresses 0513 Mattress pads_",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "05 Beds & Mattresses",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182848,
+              21.557487
+            ],
+            [
+              39.182917,
+              21.5575
+            ],
+            [
+              39.182992,
+              21.557513
+            ],
+            [
+              39.183004,
+              21.557457
+            ],
+            [
+              39.182859,
+              21.557431
+            ],
+            [
+              39.182848,
+              21.557487
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 97.1574,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 30,
+        "min_max_coords": {
+          "lat_min": 21.557431,
+          "lat_max": 21.557513,
+          "lng_min": 39.182848,
+          "lng_max": 39.183004
+        },
+        "name": "0521 Bed frames_",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "05 Beds & Mattresses",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182987,
+              21.55763
+            ],
+            [
+              39.182998,
+              21.557582
+            ],
+            [
+              39.183049,
+              21.557591
+            ],
+            [
+              39.183039,
+              21.55764
+            ],
+            [
+              39.182987,
+              21.55763
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 29.9367,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557582,
+          "lat_max": 21.55764,
+          "lng_min": 39.182987,
+          "lng_max": 39.183049
+        },
+        "name": "0522 Flexible sleep solutions",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "05 Beds & Mattresses",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183001,
+              21.557564
+            ],
+            [
+              39.183035,
+              21.557401
+            ],
+            [
+              39.183087,
+              21.557411
+            ],
+            [
+              39.183053,
+              21.557573
+            ],
+            [
+              39.183001,
+              21.557564
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 101.1106,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557401,
+          "lat_max": 21.557573,
+          "lng_min": 39.183001,
+          "lng_max": 39.183087
+        },
+        "name": "0431 Chest of drawers",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "04 Bedroom furniture",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182802,
+              21.557422
+            ],
+            [
+              39.182817,
+              21.557348
+            ],
+            [
+              39.183038,
+              21.557387
+            ],
+            [
+              39.183035,
+              21.557401
+            ],
+            [
+              39.183027,
+              21.557442
+            ],
+            [
+              39.182845,
+              21.55741
+            ],
+            [
+              39.182841,
+              21.557429
+            ],
+            [
+              39.182802,
+              21.557422
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 154.0459,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557348,
+          "lat_max": 21.557442,
+          "lng_min": 39.182802,
+          "lng_max": 39.183038
+        },
+        "name": "0521 Bed compact",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "05 Beds & Mattresses",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183163,
+              21.557482
+            ],
+            [
+              39.183205,
+              21.55749
+            ],
+            [
+              39.183176,
+              21.557627
+            ],
+            [
+              39.183144,
+              21.557621
+            ],
+            [
+              39.183162,
+              21.557536
+            ],
+            [
+              39.183152,
+              21.557534
+            ],
+            [
+              39.183163,
+              21.557482
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 58.7958,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557482,
+          "lat_max": 21.557627,
+          "lng_min": 39.183144,
+          "lng_max": 39.183205
+        },
+        "name": "0423 Solitaire wardrobes",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "04 Bedroom furniture",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183261,
+              21.557571
+            ],
+            [
+              39.183209,
+              21.557562
+            ],
+            [
+              39.183199,
+              21.557613
+            ],
+            [
+              39.18325,
+              21.557622
+            ],
+            [
+              39.183261,
+              21.557571
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 31.36,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557562,
+          "lat_max": 21.557622,
+          "lng_min": 39.183199,
+          "lng_max": 39.183261
+        },
+        "name": "0422 PLATSA Studio",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "04 Bedroom furniture",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183209,
+              21.557562
+            ],
+            [
+              39.183261,
+              21.557571
+            ],
+            [
+              39.183275,
+              21.557504
+            ],
+            [
+              39.183223,
+              21.557495
+            ],
+            [
+              39.183209,
+              21.557562
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 41.606,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557495,
+          "lat_max": 21.557571,
+          "lng_min": 39.183209,
+          "lng_max": 39.183275
+        },
+        "name": "0422 Interior organisers",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "04 Bedroom furniture",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18327,
+              21.557717
+            ],
+            [
+              39.183278,
+              21.557682
+            ],
+            [
+              39.18343,
+              21.557709
+            ],
+            [
+              39.183419,
+              21.557763
+            ],
+            [
+              39.183384,
+              21.557756
+            ],
+            [
+              39.183345,
+              21.557749
+            ],
+            [
+              39.183349,
+              21.557732
+            ],
+            [
+              39.18327,
+              21.557717
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 80.5322,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557682,
+          "lat_max": 21.557763,
+          "lng_min": 39.18327,
+          "lng_max": 39.18343
+        },
+        "name": "0231 TV benches",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "02 Store and organise furniture",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183131,
+              21.557785
+            ],
+            [
+              39.183142,
+              21.557733
+            ],
+            [
+              39.183228,
+              21.557748
+            ],
+            [
+              39.183232,
+              21.557729
+            ],
+            [
+              39.183327,
+              21.557746
+            ],
+            [
+              39.183311,
+              21.557816
+            ],
+            [
+              39.183131,
+              21.557785
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 132.9717,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557729,
+          "lat_max": 21.557816,
+          "lng_min": 39.183131,
+          "lng_max": 39.183327
+        },
+        "name": "0211 System cabinets",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "02 Store and organise furniture",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183099,
+              21.557779
+            ],
+            [
+              39.183131,
+              21.557785
+            ],
+            [
+              39.183199,
+              21.557797
+            ],
+            [
+              39.183183,
+              21.557869
+            ],
+            [
+              39.183157,
+              21.557996
+            ],
+            [
+              39.182999,
+              21.557968
+            ],
+            [
+              39.183009,
+              21.557923
+            ],
+            [
+              39.18302,
+              21.557925
+            ],
+            [
+              39.183013,
+              21.55796
+            ],
+            [
+              39.183149,
+              21.557984
+            ],
+            [
+              39.183186,
+              21.557803
+            ],
+            [
+              39.183097,
+              21.557787
+            ],
+            [
+              39.183099,
+              21.557779
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 55.7011,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557779,
+          "lat_max": 21.557996,
+          "lng_min": 39.182999,
+          "lng_max": 39.183199
+        },
+        "name": "0821 Chairs incl covers, folding chairs",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "08 Dining",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18311,
+              21.557818
+            ],
+            [
+              39.183085,
+              21.557937
+            ],
+            [
+              39.18302,
+              21.557925
+            ],
+            [
+              39.183013,
+              21.55796
+            ],
+            [
+              39.183077,
+              21.557971
+            ],
+            [
+              39.183149,
+              21.557984
+            ],
+            [
+              39.183168,
+              21.55789
+            ],
+            [
+              39.183186,
+              21.557803
+            ],
+            [
+              39.183097,
+              21.557787
+            ],
+            [
+              39.183091,
+              21.557814
+            ],
+            [
+              39.18311,
+              21.557818
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 185.6474,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557787,
+          "lat_max": 21.557984,
+          "lng_min": 39.183013,
+          "lng_max": 39.183186
+        },
+        "name": "0811 Tables",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "08 Dining",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183226,
+              21.557952
+            ],
+            [
+              39.183308,
+              21.557967
+            ],
+            [
+              39.183315,
+              21.557932
+            ],
+            [
+              39.183362,
+              21.55794
+            ],
+            [
+              39.183368,
+              21.557913
+            ],
+            [
+              39.183352,
+              21.557911
+            ],
+            [
+              39.183284,
+              21.557898
+            ],
+            [
+              39.18329,
+              21.557869
+            ],
+            [
+              39.183245,
+              21.55786
+            ],
+            [
+              39.183226,
+              21.557952
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 91.7749,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.55786,
+          "lat_max": 21.557967,
+          "lng_min": 39.183226,
+          "lng_max": 39.183368
+        },
+        "name": "0121 Sofa tables",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "01 Living room seating",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183362,
+              21.55794
+            ],
+            [
+              39.183419,
+              21.557951
+            ],
+            [
+              39.183412,
+              21.557986
+            ],
+            [
+              39.18349,
+              21.557999
+            ],
+            [
+              39.183503,
+              21.557937
+            ],
+            [
+              39.183458,
+              21.557929
+            ],
+            [
+              39.183481,
+              21.557816
+            ],
+            [
+              39.183526,
+              21.557824
+            ],
+            [
+              39.183534,
+              21.55779
+            ],
+            [
+              39.183502,
+              21.557784
+            ],
+            [
+              39.183504,
+              21.557774
+            ],
+            [
+              39.183478,
+              21.557769
+            ],
+            [
+              39.183477,
+              21.557772
+            ],
+            [
+              39.183474,
+              21.557785
+            ],
+            [
+              39.183407,
+              21.557773
+            ],
+            [
+              39.183408,
+              21.557768
+            ],
+            [
+              39.183383,
+              21.557764
+            ],
+            [
+              39.183352,
+              21.557911
+            ],
+            [
+              39.183368,
+              21.557913
+            ],
+            [
+              39.183362,
+              21.55794
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 279.5833,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557764,
+          "lat_max": 21.557999,
+          "lng_min": 39.183352,
+          "lng_max": 39.183534
+        },
+        "name": "0111 Sofas",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "01 Living room seating",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183125,
+              21.557711
+            ],
+            [
+              39.183213,
+              21.557727
+            ],
+            [
+              39.183218,
+              21.557708
+            ],
+            [
+              39.18327,
+              21.557717
+            ],
+            [
+              39.183278,
+              21.557682
+            ],
+            [
+              39.183137,
+              21.557657
+            ],
+            [
+              39.183125,
+              21.557711
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 79.5007,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557657,
+          "lat_max": 21.557727,
+          "lng_min": 39.183125,
+          "lng_max": 39.183278
+        },
+        "name": "0215 Open shelving units",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "02 Store and organise furniture",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182852,
+              21.557832
+            ],
+            [
+              39.183021,
+              21.557863
+            ],
+            [
+              39.183041,
+              21.557769
+            ],
+            [
+              39.18299,
+              21.557759
+            ],
+            [
+              39.182977,
+              21.557819
+            ],
+            [
+              39.182886,
+              21.557803
+            ],
+            [
+              39.18289,
+              21.557785
+            ],
+            [
+              39.182862,
+              21.55778
+            ],
+            [
+              39.182852,
+              21.557832
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 112.1572,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557759,
+          "lat_max": 21.557863,
+          "lng_min": 39.182852,
+          "lng_max": 39.183041
+        },
+        "name": "0761 Kitchen interior organisers",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "07 Kitchen",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18342,
+              21.557512
+            ],
+            [
+              39.183348,
+              21.5575
+            ],
+            [
+              39.183351,
+              21.557485
+            ],
+            [
+              39.183424,
+              21.557497
+            ],
+            [
+              39.18342,
+              21.557512
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 13.0177,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557485,
+          "lat_max": 21.557512,
+          "lng_min": 39.183348,
+          "lng_max": 39.183424
+        },
+        "name": "0945 Books and creativity",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183426,
+              21.557485
+            ],
+            [
+              39.183432,
+              21.557457
+            ],
+            [
+              39.183332,
+              21.557439
+            ],
+            [
+              39.183326,
+              21.557467
+            ],
+            [
+              39.183426,
+              21.557485
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 33.5153,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557439,
+          "lat_max": 21.557485,
+          "lng_min": 39.183326,
+          "lng_max": 39.183432
+        },
+        "name": "0942 Toys for small children",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183326,
+              21.557467
+            ],
+            [
+              39.183322,
+              21.557466
+            ],
+            [
+              39.183321,
+              21.557472
+            ],
+            [
+              39.183299,
+              21.557468
+            ],
+            [
+              39.183294,
+              21.557494
+            ],
+            [
+              39.183279,
+              21.557491
+            ],
+            [
+              39.183264,
+              21.557568
+            ],
+            [
+              39.183288,
+              21.557572
+            ],
+            [
+              39.183285,
+              21.557589
+            ],
+            [
+              39.183258,
+              21.557584
+            ],
+            [
+              39.183261,
+              21.557571
+            ],
+            [
+              39.183275,
+              21.557504
+            ],
+            [
+              39.18329,
+              21.557432
+            ],
+            [
+              39.183332,
+              21.557439
+            ],
+            [
+              39.183326,
+              21.557467
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 28.3117,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557432,
+          "lat_max": 21.557589,
+          "lng_min": 39.183258,
+          "lng_max": 39.183332
+        },
+        "name": "0934 Textiles for small children",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183279,
+              21.557491
+            ],
+            [
+              39.183294,
+              21.557494
+            ],
+            [
+              39.183299,
+              21.557468
+            ],
+            [
+              39.183321,
+              21.557472
+            ],
+            [
+              39.1833,
+              21.557574
+            ],
+            [
+              39.183264,
+              21.557568
+            ],
+            [
+              39.183277,
+              21.557504
+            ],
+            [
+              39.183279,
+              21.557491
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 39.687,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557468,
+          "lat_max": 21.557574,
+          "lng_min": 39.183264,
+          "lng_max": 39.183321
+        },
+        "name": "0951 Beds for children 0931 Beds for small children",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183285,
+              21.557589
+            ],
+            [
+              39.183288,
+              21.557572
+            ],
+            [
+              39.1833,
+              21.557574
+            ],
+            [
+              39.183296,
+              21.557591
+            ],
+            [
+              39.183285,
+              21.557589
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 2.3339,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557572,
+          "lat_max": 21.557591,
+          "lng_min": 39.183285,
+          "lng_max": 39.1833
+        },
+        "name": "0932 Mattresses for small children",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183296,
+              21.557591
+            ],
+            [
+              39.183355,
+              21.557601
+            ],
+            [
+              39.183357,
+              21.557594
+            ],
+            [
+              39.183368,
+              21.557596
+            ],
+            [
+              39.183374,
+              21.557568
+            ],
+            [
+              39.183304,
+              21.557556
+            ],
+            [
+              39.1833,
+              21.557574
+            ],
+            [
+              39.183296,
+              21.557591
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 28.4211,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557556,
+          "lat_max": 21.557601,
+          "lng_min": 39.183296,
+          "lng_max": 39.183374
+        },
+        "name": "0937 Furniture for small children",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.1834,
+              21.557596
+            ],
+            [
+              39.183388,
+              21.557594
+            ],
+            [
+              39.183403,
+              21.557524
+            ],
+            [
+              39.183415,
+              21.557526
+            ],
+            [
+              39.1834,
+              21.557596
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 10.0269,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557524,
+          "lat_max": 21.557596,
+          "lng_min": 39.183388,
+          "lng_max": 39.183415
+        },
+        "name": "0922 Childrens small storage",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183397,
+              21.557554
+            ],
+            [
+              39.183326,
+              21.557541
+            ],
+            [
+              39.183337,
+              21.557487
+            ],
+            [
+              39.18335,
+              21.557489
+            ],
+            [
+              39.183348,
+              21.5575
+            ],
+            [
+              39.183417,
+              21.557512
+            ],
+            [
+              39.183415,
+              21.557526
+            ],
+            [
+              39.183403,
+              21.557524
+            ],
+            [
+              39.183397,
+              21.557554
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 40.586,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557487,
+          "lat_max": 21.557554,
+          "lng_min": 39.183326,
+          "lng_max": 39.183417
+        },
+        "name": "0921 Childrens storage furniture 0922 Childrens small storage ",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183368,
+              21.557596
+            ],
+            [
+              39.183365,
+              21.557615
+            ],
+            [
+              39.183341,
+              21.557611
+            ],
+            [
+              39.183334,
+              21.557647
+            ],
+            [
+              39.183321,
+              21.557644
+            ],
+            [
+              39.183331,
+              21.557597
+            ],
+            [
+              39.183355,
+              21.557601
+            ],
+            [
+              39.183357,
+              21.557594
+            ],
+            [
+              39.183368,
+              21.557596
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 11.5482,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557594,
+          "lat_max": 21.557647,
+          "lng_min": 39.183321,
+          "lng_max": 39.183368
+        },
+        "name": "0917 Highchairs",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183341,
+              21.557611
+            ],
+            [
+              39.183334,
+              21.557647
+            ],
+            [
+              39.183357,
+              21.557651
+            ],
+            [
+              39.183365,
+              21.557615
+            ],
+            [
+              39.183341,
+              21.557611
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 10.0961,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557611,
+          "lat_max": 21.557651,
+          "lng_min": 39.183334,
+          "lng_max": 39.183365
+        },
+        "name": "0913 Accessories for babies",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183399,
+              21.557601
+            ],
+            [
+              39.183394,
+              21.557623
+            ],
+            [
+              39.183383,
+              21.557621
+            ],
+            [
+              39.183387,
+              21.557599
+            ],
+            [
+              39.183399,
+              21.557601
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 3.0196,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557599,
+          "lat_max": 21.557623,
+          "lng_min": 39.183383,
+          "lng_max": 39.183399
+        },
+        "name": "0919 Safety for babies",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183394,
+              21.557623
+            ],
+            [
+              39.183438,
+              21.557631
+            ],
+            [
+              39.183441,
+              21.557618
+            ],
+            [
+              39.183397,
+              21.557611
+            ],
+            [
+              39.183394,
+              21.557623
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 6.5982,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557611,
+          "lat_max": 21.557631,
+          "lng_min": 39.183394,
+          "lng_max": 39.183441
+        },
+        "name": "0913 Accessories for baby",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183366,
+              21.557688
+            ],
+            [
+              39.183327,
+              21.557681
+            ],
+            [
+              39.183312,
+              21.557688
+            ],
+            [
+              39.183364,
+              21.557697
+            ],
+            [
+              39.183366,
+              21.557688
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 4.9789,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557681,
+          "lat_max": 21.557697,
+          "lng_min": 39.183312,
+          "lng_max": 39.183366
+        },
+        "name": "0921 Childrens storage furniture",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183327,
+              21.557681
+            ],
+            [
+              39.183331,
+              21.557665
+            ],
+            [
+              39.183317,
+              21.557662
+            ],
+            [
+              39.183312,
+              21.557688
+            ],
+            [
+              39.183327,
+              21.557681
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 3.4057,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557662,
+          "lat_max": 21.557688,
+          "lng_min": 39.183312,
+          "lng_max": 39.183331
+        },
+        "name": "0915 Toys for babies",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183174,
+              21.557664
+            ],
+            [
+              39.183182,
+              21.557628
+            ],
+            [
+              39.183176,
+              21.557627
+            ],
+            [
+              39.183144,
+              21.557621
+            ],
+            [
+              39.183137,
+              21.557657
+            ],
+            [
+              39.183174,
+              21.557664
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 16.141,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557621,
+          "lat_max": 21.557664,
+          "lng_min": 39.183137,
+          "lng_max": 39.183182
+        },
+        "name": "0433 Complementary bedroom furniture",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "04 Bedroom furniture",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183174,
+              21.557664
+            ],
+            [
+              39.183182,
+              21.557628
+            ],
+            [
+              39.183247,
+              21.557639
+            ],
+            [
+              39.183239,
+              21.557675
+            ],
+            [
+              39.183174,
+              21.557664
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 27.9832,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557628,
+          "lat_max": 21.557675,
+          "lng_min": 39.183174,
+          "lng_max": 39.183247
+        },
+        "name": "0435 Hallway furniture",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "04 Bedroom furniture",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183064,
+              21.55752
+            ],
+            [
+              39.183102,
+              21.557526
+            ],
+            [
+              39.183117,
+              21.557456
+            ],
+            [
+              39.183214,
+              21.557473
+            ],
+            [
+              39.183225,
+              21.55742
+            ],
+            [
+              39.18309,
+              21.557396
+            ],
+            [
+              39.183087,
+              21.557411
+            ],
+            [
+              39.183064,
+              21.55752
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 117.6723,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557396,
+          "lat_max": 21.557526,
+          "lng_min": 39.183064,
+          "lng_max": 39.183225
+        },
+        "name": "0421 System wardrobes",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "04 Bedroom furniture",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183035,
+              21.557401
+            ],
+            [
+              39.183038,
+              21.557387
+            ],
+            [
+              39.18309,
+              21.557396
+            ],
+            [
+              39.183087,
+              21.557411
+            ],
+            [
+              39.183035,
+              21.557401
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 9.0185,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557387,
+          "lat_max": 21.557411,
+          "lng_min": 39.183035,
+          "lng_max": 39.18309
+        },
+        "name": "0432 Bedside tables",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "04 Bedroom furniture",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183125,
+              21.557711
+            ],
+            [
+              39.183045,
+              21.557698
+            ],
+            [
+              39.183057,
+              21.557642
+            ],
+            [
+              39.183137,
+              21.557657
+            ],
+            [
+              39.183125,
+              21.557711
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 52.647,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557642,
+          "lat_max": 21.557711,
+          "lng_min": 39.183045,
+          "lng_max": 39.183137
+        },
+        "name": "0212 Solitaire cabinets 0221 Display cabinets",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "02 Store and organise furniture",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183094,
+              21.557706
+            ],
+            [
+              39.183079,
+              21.557776
+            ],
+            [
+              39.183041,
+              21.557769
+            ],
+            [
+              39.183031,
+              21.557767
+            ],
+            [
+              39.183045,
+              21.557698
+            ],
+            [
+              39.183094,
+              21.557706
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 40.3036,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557698,
+          "lat_max": 21.557776,
+          "lng_min": 39.183031,
+          "lng_max": 39.183094
+        },
+        "name": "0213 Close storage compact",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "02 Store and organise furniture",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183099,
+              21.557779
+            ],
+            [
+              39.183109,
+              21.557727
+            ],
+            [
+              39.183142,
+              21.557733
+            ],
+            [
+              39.183131,
+              21.557785
+            ],
+            [
+              39.183099,
+              21.557779
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 20.2036,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557727,
+          "lat_max": 21.557785,
+          "lng_min": 39.183099,
+          "lng_max": 39.183142
+        },
+        "name": "0213 Side boards",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "02 Store and organise furniture",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183012,
+              21.557905
+            ],
+            [
+              39.183018,
+              21.557876
+            ],
+            [
+              39.183076,
+              21.557886
+            ],
+            [
+              39.18307,
+              21.557915
+            ],
+            [
+              39.183012,
+              21.557905
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 20.0768,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557876,
+          "lat_max": 21.557915,
+          "lng_min": 39.183012,
+          "lng_max": 39.183076
+        },
+        "name": "0812 High tables",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "08 Dining",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18297,
+              21.557756
+            ],
+            [
+              39.182962,
+              21.557798
+            ],
+            [
+              39.182909,
+              21.557789
+            ],
+            [
+              39.182913,
+              21.557771
+            ],
+            [
+              39.182867,
+              21.557762
+            ],
+            [
+              39.182872,
+              21.557738
+            ],
+            [
+              39.18297,
+              21.557756
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 39.8137,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557738,
+          "lat_max": 21.557798,
+          "lng_min": 39.182867,
+          "lng_max": 39.18297
+        },
+        "name": "0782 Kitchen furniture",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "07 Kitchen",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182867,
+              21.557762
+            ],
+            [
+              39.182786,
+              21.557747
+            ],
+            [
+              39.182791,
+              21.557724
+            ],
+            [
+              39.182872,
+              21.557738
+            ],
+            [
+              39.182867,
+              21.557762
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 22.7738,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557724,
+          "lat_max": 21.557762,
+          "lng_min": 39.182786,
+          "lng_max": 39.182872
+        },
+        "name": "0751 Kitchen taps 0752 Kitchen sinks and sink accessories",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "07 Kitchen",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182786,
+              21.557747
+            ],
+            [
+              39.182773,
+              21.557744
+            ],
+            [
+              39.182766,
+              21.557776
+            ],
+            [
+              39.182728,
+              21.557769
+            ],
+            [
+              39.182739,
+              21.557715
+            ],
+            [
+              39.182791,
+              21.557724
+            ],
+            [
+              39.182786,
+              21.557747
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 28.4441,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557715,
+          "lat_max": 21.557776,
+          "lng_min": 39.182728,
+          "lng_max": 39.182791
+        },
+        "name": "Home apliances",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "07 Kitchen",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182766,
+              21.557776
+            ],
+            [
+              39.182758,
+              21.557815
+            ],
+            [
+              39.18272,
+              21.557808
+            ],
+            [
+              39.182728,
+              21.557769
+            ],
+            [
+              39.182766,
+              21.557776
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 17.7257,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557769,
+          "lat_max": 21.557815,
+          "lng_min": 39.18272,
+          "lng_max": 39.182766
+        },
+        "name": "0711 Kitchen cabinets",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "07 Kitchen",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182758,
+              21.557815
+            ],
+            [
+              39.182756,
+              21.557824
+            ],
+            [
+              39.182737,
+              21.557821
+            ],
+            [
+              39.182731,
+              21.557847
+            ],
+            [
+              39.18275,
+              21.557851
+            ],
+            [
+              39.182748,
+              21.55786
+            ],
+            [
+              39.182721,
+              21.557855
+            ],
+            [
+              39.18273,
+              21.55781
+            ],
+            [
+              39.182758,
+              21.557815
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 8.7649,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.55781,
+          "lat_max": 21.55786,
+          "lng_min": 39.182721,
+          "lng_max": 39.182758
+        },
+        "name": "0742 Kitchen wall panels",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "07 Kitchen",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182731,
+              21.557847
+            ],
+            [
+              39.18275,
+              21.557851
+            ],
+            [
+              39.182756,
+              21.557824
+            ],
+            [
+              39.182737,
+              21.557821
+            ],
+            [
+              39.182731,
+              21.557847
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 6.045,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557821,
+          "lat_max": 21.557851,
+          "lng_min": 39.182731,
+          "lng_max": 39.182756
+        },
+        "name": "0791 Knobs and handles",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "07 Kitchen",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182748,
+              21.557717
+            ],
+            [
+              39.182751,
+              21.557703
+            ],
+            [
+              39.18282,
+              21.557716
+            ],
+            [
+              39.182818,
+              21.557729
+            ],
+            [
+              39.182791,
+              21.557724
+            ],
+            [
+              39.182748,
+              21.557717
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 11.0238,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557703,
+          "lat_max": 21.557729,
+          "lng_min": 39.182748,
+          "lng_max": 39.18282
+        },
+        "name": "0352 Office chairs",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "03 Workspaces",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18282,
+              21.557716
+            ],
+            [
+              39.182973,
+              21.557743
+            ],
+            [
+              39.18297,
+              21.557756
+            ],
+            [
+              39.182872,
+              21.557738
+            ],
+            [
+              39.182818,
+              21.557729
+            ],
+            [
+              39.18282,
+              21.557716
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 23.108,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557716,
+          "lat_max": 21.557756,
+          "lng_min": 39.182818,
+          "lng_max": 39.182973
+        },
+        "name": "0342 Home swivel chairs",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "03 Workspaces",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182973,
+              21.557743
+            ],
+            [
+              39.182985,
+              21.557687
+            ],
+            [
+              39.182922,
+              21.557676
+            ],
+            [
+              39.182919,
+              21.557692
+            ],
+            [
+              39.182789,
+              21.55767
+            ],
+            [
+              39.18278,
+              21.557708
+            ],
+            [
+              39.18282,
+              21.557716
+            ],
+            [
+              39.182973,
+              21.557743
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 103.2195,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.55767,
+          "lat_max": 21.557743,
+          "lng_min": 39.18278,
+          "lng_max": 39.182985
+        },
+        "name": "0351 Office desks and tables 0343 Home desk storage",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "03 Workspaces",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18278,
+              21.557708
+            ],
+            [
+              39.182789,
+              21.55767
+            ],
+            [
+              39.182804,
+              21.557598
+            ],
+            [
+              39.182766,
+              21.557591
+            ],
+            [
+              39.182739,
+              21.557715
+            ],
+            [
+              39.182748,
+              21.557717
+            ],
+            [
+              39.182751,
+              21.557703
+            ],
+            [
+              39.18278,
+              21.557708
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 52.1227,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557591,
+          "lat_max": 21.557717,
+          "lng_min": 39.182739,
+          "lng_max": 39.182804
+        },
+        "name": "0371 Gaming",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "03 Workspaces",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182811,
+              21.557655
+            ],
+            [
+              39.182822,
+              21.557602
+            ],
+            [
+              39.182893,
+              21.557613
+            ],
+            [
+              39.182921,
+              21.557618
+            ],
+            [
+              39.182913,
+              21.557656
+            ],
+            [
+              39.182907,
+              21.557655
+            ],
+            [
+              39.182904,
+              21.557671
+            ],
+            [
+              39.182811,
+              21.557655
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 62.2014,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557602,
+          "lat_max": 21.557671,
+          "lng_min": 39.182811,
+          "lng_max": 39.182921
+        },
+        "name": "0351 Office desks and tables",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "03 Workspaces",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182913,
+              21.557656
+            ],
+            [
+              39.182986,
+              21.557669
+            ],
+            [
+              39.182994,
+              21.557631
+            ],
+            [
+              39.182987,
+              21.55763
+            ],
+            [
+              39.182921,
+              21.557618
+            ],
+            [
+              39.182913,
+              21.557656
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 33.0658,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557618,
+          "lat_max": 21.557669,
+          "lng_min": 39.182913,
+          "lng_max": 39.182994
+        },
+        "name": "0341 Home desks",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "03 Workspaces",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183396,
+              21.557766
+            ],
+            [
+              39.183397,
+              21.557758
+            ],
+            [
+              39.183419,
+              21.557763
+            ],
+            [
+              39.183459,
+              21.557769
+            ],
+            [
+              39.183477,
+              21.557772
+            ],
+            [
+              39.183474,
+              21.557785
+            ],
+            [
+              39.183407,
+              21.557773
+            ],
+            [
+              39.183408,
+              21.557768
+            ],
+            [
+              39.183396,
+              21.557766
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 11.0642,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557758,
+          "lat_max": 21.557785,
+          "lng_min": 39.183396,
+          "lng_max": 39.183477
+        },
+        "name": "0126 Footstools_",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "01 Living room seating",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18329,
+              21.557869
+            ],
+            [
+              39.183319,
+              21.557874
+            ],
+            [
+              39.183345,
+              21.557749
+            ],
+            [
+              39.183384,
+              21.557756
+            ],
+            [
+              39.183383,
+              21.557764
+            ],
+            [
+              39.183352,
+              21.557911
+            ],
+            [
+              39.183284,
+              21.557898
+            ],
+            [
+              39.18329,
+              21.557869
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 83.0677,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557749,
+          "lat_max": 21.557911,
+          "lng_min": 39.183284,
+          "lng_max": 39.183384
+        },
+        "name": "0113 Sofa beds",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "01 Living room seating",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183428,
+              21.557666
+            ],
+            [
+              39.183426,
+              21.557675
+            ],
+            [
+              39.183437,
+              21.557677
+            ],
+            [
+              39.183438,
+              21.557673
+            ],
+            [
+              39.183439,
+              21.557668
+            ],
+            [
+              39.183428,
+              21.557666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 1.1929,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557666,
+          "lat_max": 21.557677,
+          "lng_min": 39.183426,
+          "lng_max": 39.183439
+        },
+        "name": "0912 Cot mattresses",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183366,
+              21.557688
+            ],
+            [
+              39.183369,
+              21.557672
+            ],
+            [
+              39.183372,
+              21.557673
+            ],
+            [
+              39.183377,
+              21.557649
+            ],
+            [
+              39.18344,
+              21.557661
+            ],
+            [
+              39.183439,
+              21.557668
+            ],
+            [
+              39.183428,
+              21.557666
+            ],
+            [
+              39.183426,
+              21.557675
+            ],
+            [
+              39.183437,
+              21.557677
+            ],
+            [
+              39.183432,
+              21.557701
+            ],
+            [
+              39.18343,
+              21.557709
+            ],
+            [
+              39.183364,
+              21.557697
+            ],
+            [
+              39.183366,
+              21.557688
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 36.2698,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557649,
+          "lat_max": 21.557709,
+          "lng_min": 39.183364,
+          "lng_max": 39.18344
+        },
+        "name": "0911 Cots 0918 Changing tables",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183377,
+              21.557649
+            ],
+            [
+              39.183383,
+              21.557621
+            ],
+            [
+              39.183394,
+              21.557623
+            ],
+            [
+              39.183438,
+              21.557631
+            ],
+            [
+              39.183439,
+              21.557626
+            ],
+            [
+              39.183448,
+              21.557627
+            ],
+            [
+              39.18344,
+              21.557661
+            ],
+            [
+              39.183377,
+              21.557649
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 22.0131,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557621,
+          "lat_max": 21.557661,
+          "lng_min": 39.183377,
+          "lng_max": 39.183448
+        },
+        "name": "0914 Textiles for babies",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183385,
+              21.557381
+            ],
+            [
+              39.183619,
+              21.557423
+            ],
+            [
+              39.183643,
+              21.557415
+            ],
+            [
+              39.183657,
+              21.557417
+            ],
+            [
+              39.183685,
+              21.55728
+            ],
+            [
+              39.183655,
+              21.557275
+            ],
+            [
+              39.183659,
+              21.557258
+            ],
+            [
+              39.183648,
+              21.557256
+            ],
+            [
+              39.183653,
+              21.557232
+            ],
+            [
+              39.183655,
+              21.557233
+            ],
+            [
+              39.183661,
+              21.557203
+            ],
+            [
+              39.183656,
+              21.557202
+            ],
+            [
+              39.183658,
+              21.557194
+            ],
+            [
+              39.183581,
+              21.557182
+            ],
+            [
+              39.183564,
+              21.55726
+            ],
+            [
+              39.183524,
+              21.557253
+            ],
+            [
+              39.183514,
+              21.557302
+            ],
+            [
+              39.183406,
+              21.557281
+            ],
+            [
+              39.183385,
+              21.557381
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 487.4646,
+        "max_distance": 60,
+        "max_duration": 0,
+        "min_duration": 10,
+        "min_max_coords": {
+          "lat_min": 21.557182,
+          "lat_max": 21.557423,
+          "lng_min": 39.183385,
+          "lng_max": 39.183685
+        },
+        "name": "Restaurant",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "restaurant",
+        "parent_2": "IF&B",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18355,
+              21.557808
+            ],
+            [
+              39.183531,
+              21.557804
+            ],
+            [
+              39.183526,
+              21.557824
+            ],
+            [
+              39.183481,
+              21.557816
+            ],
+            [
+              39.183458,
+              21.557929
+            ],
+            [
+              39.183503,
+              21.557937
+            ],
+            [
+              39.18349,
+              21.557999
+            ],
+            [
+              39.183412,
+              21.557986
+            ],
+            [
+              39.183419,
+              21.557951
+            ],
+            [
+              39.183315,
+              21.557932
+            ],
+            [
+              39.183308,
+              21.557967
+            ],
+            [
+              39.183226,
+              21.557952
+            ],
+            [
+              39.183245,
+              21.55786
+            ],
+            [
+              39.183319,
+              21.557874
+            ],
+            [
+              39.18333,
+              21.55782
+            ],
+            [
+              39.183199,
+              21.557797
+            ],
+            [
+              39.183157,
+              21.557996
+            ],
+            [
+              39.183536,
+              21.558062
+            ],
+            [
+              39.183558,
+              21.557962
+            ],
+            [
+              39.183519,
+              21.557955
+            ],
+            [
+              39.183527,
+              21.557917
+            ],
+            [
+              39.183486,
+              21.55791
+            ],
+            [
+              39.183501,
+              21.557838
+            ],
+            [
+              39.183523,
+              21.557842
+            ],
+            [
+              39.183542,
+              21.557845
+            ],
+            [
+              39.18355,
+              21.557808
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 523.6054,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557797,
+          "lat_max": 21.558062,
+          "lng_min": 39.183157,
+          "lng_max": 39.183558
+        },
+        "name": "01 Aisle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "01 Living room seating",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183311,
+              21.557816
+            ],
+            [
+              39.18333,
+              21.55782
+            ],
+            [
+              39.183349,
+              21.557732
+            ],
+            [
+              39.183218,
+              21.557708
+            ],
+            [
+              39.183213,
+              21.557727
+            ],
+            [
+              39.183094,
+              21.557706
+            ],
+            [
+              39.183079,
+              21.557776
+            ],
+            [
+              39.183099,
+              21.557779
+            ],
+            [
+              39.183109,
+              21.557727
+            ],
+            [
+              39.183228,
+              21.557748
+            ],
+            [
+              39.183232,
+              21.557729
+            ],
+            [
+              39.183327,
+              21.557746
+            ],
+            [
+              39.183311,
+              21.557816
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 84.8599,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557706,
+          "lat_max": 21.55782,
+          "lng_min": 39.183079,
+          "lng_max": 39.183349
+        },
+        "name": "02 Aisle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "02 Store and organise furniture",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183041,
+              21.557769
+            ],
+            [
+              39.183099,
+              21.557779
+            ],
+            [
+              39.183091,
+              21.557814
+            ],
+            [
+              39.18311,
+              21.557818
+            ],
+            [
+              39.183085,
+              21.557937
+            ],
+            [
+              39.183009,
+              21.557923
+            ],
+            [
+              39.183012,
+              21.557905
+            ],
+            [
+              39.18307,
+              21.557915
+            ],
+            [
+              39.183076,
+              21.557886
+            ],
+            [
+              39.183018,
+              21.557876
+            ],
+            [
+              39.183041,
+              21.557769
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 113.5114,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557769,
+          "lat_max": 21.557937,
+          "lng_min": 39.183009,
+          "lng_max": 39.18311
+        },
+        "name": "08 Aisle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "08 Dining",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182999,
+              21.557968
+            ],
+            [
+              39.182698,
+              21.557916
+            ],
+            [
+              39.18272,
+              21.557808
+            ],
+            [
+              39.18273,
+              21.55781
+            ],
+            [
+              39.182721,
+              21.557855
+            ],
+            [
+              39.182748,
+              21.55786
+            ],
+            [
+              39.182773,
+              21.557744
+            ],
+            [
+              39.182913,
+              21.557771
+            ],
+            [
+              39.182909,
+              21.557789
+            ],
+            [
+              39.182962,
+              21.557798
+            ],
+            [
+              39.18297,
+              21.557756
+            ],
+            [
+              39.18299,
+              21.557759
+            ],
+            [
+              39.182977,
+              21.557819
+            ],
+            [
+              39.182886,
+              21.557803
+            ],
+            [
+              39.18289,
+              21.557785
+            ],
+            [
+              39.182862,
+              21.55778
+            ],
+            [
+              39.182852,
+              21.557832
+            ],
+            [
+              39.183021,
+              21.557864
+            ],
+            [
+              39.182999,
+              21.557968
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 485.4228,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557744,
+          "lat_max": 21.557968,
+          "lng_min": 39.182698,
+          "lng_max": 39.183021
+        },
+        "name": "07 Aisle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "07 Kitchen",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18297,
+              21.557756
+            ],
+            [
+              39.183031,
+              21.557767
+            ],
+            [
+              39.183057,
+              21.557642
+            ],
+            [
+              39.182994,
+              21.557631
+            ],
+            [
+              39.182986,
+              21.557669
+            ],
+            [
+              39.182907,
+              21.557655
+            ],
+            [
+              39.182904,
+              21.557671
+            ],
+            [
+              39.182811,
+              21.557655
+            ],
+            [
+              39.182822,
+              21.557602
+            ],
+            [
+              39.182804,
+              21.557598
+            ],
+            [
+              39.182789,
+              21.55767
+            ],
+            [
+              39.182919,
+              21.557692
+            ],
+            [
+              39.182922,
+              21.557676
+            ],
+            [
+              39.182985,
+              21.557687
+            ],
+            [
+              39.18297,
+              21.557756
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 147.7586,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557598,
+          "lat_max": 21.557767,
+          "lng_min": 39.182789,
+          "lng_max": 39.183057
+        },
+        "name": "03 Aisle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "03 Workspaces",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182893,
+              21.557613
+            ],
+            [
+              39.182766,
+              21.557591
+            ],
+            [
+              39.182802,
+              21.557422
+            ],
+            [
+              39.182841,
+              21.557429
+            ],
+            [
+              39.182845,
+              21.55741
+            ],
+            [
+              39.183027,
+              21.557442
+            ],
+            [
+              39.183001,
+              21.557564
+            ],
+            [
+              39.182998,
+              21.557582
+            ],
+            [
+              39.182978,
+              21.557578
+            ],
+            [
+              39.183004,
+              21.557457
+            ],
+            [
+              39.182859,
+              21.557431
+            ],
+            [
+              39.182848,
+              21.557487
+            ],
+            [
+              39.182917,
+              21.5575
+            ],
+            [
+              39.182893,
+              21.557613
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 277.6535,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.55741,
+          "lat_max": 21.557613,
+          "lng_min": 39.182766,
+          "lng_max": 39.183027
+        },
+        "name": "05 Aisle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "05 Beds & Mattresses",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182998,
+              21.557582
+            ],
+            [
+              39.183001,
+              21.557564
+            ],
+            [
+              39.183053,
+              21.557573
+            ],
+            [
+              39.183064,
+              21.55752
+            ],
+            [
+              39.183102,
+              21.557526
+            ],
+            [
+              39.183117,
+              21.557456
+            ],
+            [
+              39.183214,
+              21.557473
+            ],
+            [
+              39.183225,
+              21.55742
+            ],
+            [
+              39.18329,
+              21.557432
+            ],
+            [
+              39.183275,
+              21.557504
+            ],
+            [
+              39.183223,
+              21.557495
+            ],
+            [
+              39.183199,
+              21.557613
+            ],
+            [
+              39.18325,
+              21.557622
+            ],
+            [
+              39.183247,
+              21.557639
+            ],
+            [
+              39.183195,
+              21.55763
+            ],
+            [
+              39.183176,
+              21.557627
+            ],
+            [
+              39.183205,
+              21.55749
+            ],
+            [
+              39.183163,
+              21.557482
+            ],
+            [
+              39.183152,
+              21.557534
+            ],
+            [
+              39.183162,
+              21.557536
+            ],
+            [
+              39.183137,
+              21.557657
+            ],
+            [
+              39.183039,
+              21.55764
+            ],
+            [
+              39.183049,
+              21.557591
+            ],
+            [
+              39.182998,
+              21.557582
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 300.9286,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.55742,
+          "lat_max": 21.557657,
+          "lng_min": 39.182998,
+          "lng_max": 39.18329
+        },
+        "name": "04 Aisle Labs",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "04 Bedroom furniture",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18324,
+              21.557675
+            ],
+            [
+              39.183312,
+              21.557688
+            ],
+            [
+              39.183317,
+              21.557662
+            ],
+            [
+              39.183331,
+              21.557665
+            ],
+            [
+              39.183327,
+              21.557681
+            ],
+            [
+              39.183366,
+              21.557688
+            ],
+            [
+              39.183369,
+              21.557672
+            ],
+            [
+              39.183372,
+              21.557673
+            ],
+            [
+              39.183397,
+              21.557554
+            ],
+            [
+              39.183326,
+              21.557541
+            ],
+            [
+              39.183337,
+              21.557487
+            ],
+            [
+              39.18335,
+              21.557489
+            ],
+            [
+              39.183351,
+              21.557485
+            ],
+            [
+              39.183424,
+              21.557497
+            ],
+            [
+              39.183426,
+              21.557485
+            ],
+            [
+              39.183322,
+              21.557466
+            ],
+            [
+              39.183304,
+              21.557556
+            ],
+            [
+              39.183374,
+              21.557568
+            ],
+            [
+              39.183357,
+              21.557651
+            ],
+            [
+              39.183321,
+              21.557644
+            ],
+            [
+              39.183331,
+              21.557597
+            ],
+            [
+              39.183258,
+              21.557584
+            ],
+            [
+              39.18324,
+              21.557675
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 165.4326,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557466,
+          "lat_max": 21.557688,
+          "lng_min": 39.18324,
+          "lng_max": 39.183426
+        },
+        "name": "09 Aisle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "09 Childrens IKEA",
+        "parent_2": "Showroom",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    }
+  ]
+}

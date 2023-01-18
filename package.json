@@ -10,8 +10,17 @@
   },
   "dependencies": {
     "@next/font": "13.1.2",
+    "@react-leaflet/core": "^2.1.0",
+    "jquery": "^3.6.3",
+    "leaflet": "1.7.1",
+    "leaflet-distortableimage": "^0.21.9",
+    "leaflet-ellipse": "^0.9.1",
+    "leaflet-play": "^0.4.4",
+    "leaflet-plugin-trackplayback": "^1.0.5",
+    "leaflet-react-track-player": "^2.0.0",
     "next": "13.1.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-leaflet": "^4.2.0"
   }
 }

@@ -1,0 +1,9 @@
+.map {
+  height: 100vh;
+  width: 100%;
+  /* position: relative; */
+  /* filter: hue-rotate(180deg); */
+}
+.img {
+  filter: hue-rotate(180deg);
+}

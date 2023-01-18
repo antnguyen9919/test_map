@@ -1,0 +1,6206 @@
+{
+  "final_data": [
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183473,
+              21.556909
+            ],
+            [
+              39.183503,
+              21.556763
+            ],
+            [
+              39.183403,
+              21.556746
+            ],
+            [
+              39.183373,
+              21.556891
+            ],
+            [
+              39.183473,
+              21.556909
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 173.7432,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.556746,
+          "lat_max": 21.556909,
+          "lng_min": 39.183373,
+          "lng_max": 39.183503
+        },
+        "name": "area11",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "HFB11",
+        "parent_2": "Selfserve",
+        "passers_by_polygon": false,
+        "state": "open",
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183733,
+              21.557144
+            ],
+            [
+              39.183686,
+              21.557136
+            ],
+            [
+              39.183702,
+              21.55706
+            ],
+            [
+              39.183749,
+              21.557068
+            ],
+            [
+              39.183733,
+              21.557144
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 42.6433,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.55706,
+          "lat_max": 21.557144,
+          "lng_min": 39.183686,
+          "lng_max": 39.183749
+        },
+        "name": "supermarket",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "supermarket",
+        "parent_2": "IF&B",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183366,
+              21.556968
+            ],
+            [
+              39.183597,
+              21.557009
+            ],
+            [
+              39.183613,
+              21.556934
+            ],
+            [
+              39.183461,
+              21.556907
+            ],
+            [
+              39.18338,
+              21.556892
+            ],
+            [
+              39.183366,
+              21.556968
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 208.5147,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 120,
+        "min_max_coords": {
+          "lat_min": 21.556892,
+          "lat_max": 21.557009,
+          "lng_min": 39.183366,
+          "lng_max": 39.183613
+        },
+        "name": "cashier1-5",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "cashier_zone",
+        "parent_2": "Customerservice",
+        "passers_by_polygon": false,
+        "state": "open",
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183366,
+              21.556968
+            ],
+            [
+              39.18335,
+              21.557042
+            ],
+            [
+              39.183582,
+              21.557081
+            ],
+            [
+              39.183597,
+              21.557009
+            ],
+            [
+              39.183366,
+              21.556968
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 201.9164,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 120,
+        "min_max_coords": {
+          "lat_min": 21.556968,
+          "lat_max": 21.557081,
+          "lng_min": 39.18335,
+          "lng_max": 39.183597
+        },
+        "name": "cashier6-10",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "cashier_zone",
+        "parent_2": "Customerservice",
+        "passers_by_polygon": false,
+        "state": "open",
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183402,
+              21.557337
+            ],
+            [
+              39.183411,
+              21.557284
+            ],
+            [
+              39.183369,
+              21.557276
+            ],
+            [
+              39.183374,
+              21.557253
+            ],
+            [
+              39.18354,
+              21.557282
+            ],
+            [
+              39.183524,
+              21.557359
+            ],
+            [
+              39.183402,
+              21.557337
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 124.7259,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 120,
+        "min_max_coords": {
+          "lat_min": 21.557253,
+          "lat_max": 21.557359,
+          "lng_min": 39.183369,
+          "lng_max": 39.18354
+        },
+        "name": "cashier26-30",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "cashier_zone",
+        "parent_2": "Customerservice",
+        "passers_by_polygon": false,
+        "state": "open",
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183521,
+              21.557743
+            ],
+            [
+              39.183579,
+              21.557753
+            ],
+            [
+              39.183584,
+              21.557726
+            ],
+            [
+              39.183526,
+              21.557715
+            ],
+            [
+              39.183521,
+              21.557743
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 18.9877,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557715,
+          "lat_max": 21.557753,
+          "lng_min": 39.183521,
+          "lng_max": 39.183584
+        },
+        "name": "0611 Bathroom Furniture",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "06 Bathroom",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18359,
+              21.557794
+            ],
+            [
+              39.183595,
+              21.557772
+            ],
+            [
+              39.183517,
+              21.557758
+            ],
+            [
+              39.183513,
+              21.557781
+            ],
+            [
+              39.18359,
+              21.557794
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 20.7972,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557758,
+          "lat_max": 21.557794,
+          "lng_min": 39.183513,
+          "lng_max": 39.183595
+        },
+        "name": "0611 Bathroom Furniture",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "06 Bathroom",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183461,
+              21.557877
+            ],
+            [
+              39.18357,
+              21.557896
+            ],
+            [
+              39.183588,
+              21.557802
+            ],
+            [
+              39.183511,
+              21.557789
+            ],
+            [
+              39.183499,
+              21.55785
+            ],
+            [
+              39.183468,
+              21.557845
+            ],
+            [
+              39.183461,
+              21.557877
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 98.2348,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557789,
+          "lat_max": 21.557896,
+          "lng_min": 39.183461,
+          "lng_max": 39.183588
+        },
+        "name": "1131 Towels",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "11 Bed and bath textiles",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183461,
+              21.557877
+            ],
+            [
+              39.183457,
+              21.557902
+            ],
+            [
+              39.18349,
+              21.557907
+            ],
+            [
+              39.183481,
+              21.557949
+            ],
+            [
+              39.183514,
+              21.557955
+            ],
+            [
+              39.183536,
+              21.557959
+            ],
+            [
+              39.183548,
+              21.557961
+            ],
+            [
+              39.183549,
+              21.557954
+            ],
+            [
+              39.183558,
+              21.557955
+            ],
+            [
+              39.18357,
+              21.557896
+            ],
+            [
+              39.183461,
+              21.557877
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 68.6208,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557877,
+          "lat_max": 21.557961,
+          "lng_min": 39.183457,
+          "lng_max": 39.18357
+        },
+        "name": "0122 Opened Storage",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "18 Home organisation",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183481,
+              21.557949
+            ],
+            [
+              39.183473,
+              21.557994
+            ],
+            [
+              39.183467,
+              21.557993
+            ],
+            [
+              39.183458,
+              21.558045
+            ],
+            [
+              39.183538,
+              21.558059
+            ],
+            [
+              39.183554,
+              21.557979
+            ],
+            [
+              39.183544,
+              21.557977
+            ],
+            [
+              39.183548,
+              21.557961
+            ],
+            [
+              39.183536,
+              21.557959
+            ],
+            [
+              39.183514,
+              21.557955
+            ],
+            [
+              39.183481,
+              21.557949
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 88.3519,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557949,
+          "lat_max": 21.558059,
+          "lng_min": 39.183458,
+          "lng_max": 39.183554
+        },
+        "name": "1831 Clothes and Shoe Organizers",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "18 Home organisation",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183388,
+              21.557864
+            ],
+            [
+              39.183371,
+              21.557953
+            ],
+            [
+              39.183453,
+              21.557967
+            ],
+            [
+              39.183461,
+              21.557925
+            ],
+            [
+              39.183428,
+              21.55792
+            ],
+            [
+              39.183438,
+              21.557872
+            ],
+            [
+              39.183388,
+              21.557864
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 68.7015,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557864,
+          "lat_max": 21.557967,
+          "lng_min": 39.183371,
+          "lng_max": 39.183461
+        },
+        "name": "0642 Laundry and laundry accessories",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "06 Bathroom",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183102,
+              21.557814
+            ],
+            [
+              39.183091,
+              21.557862
+            ],
+            [
+              39.183099,
+              21.557863
+            ],
+            [
+              39.183094,
+              21.557888
+            ],
+            [
+              39.183201,
+              21.557907
+            ],
+            [
+              39.183216,
+              21.557833
+            ],
+            [
+              39.183102,
+              21.557814
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 98.0561,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557814,
+          "lat_max": 21.557907,
+          "lng_min": 39.183091,
+          "lng_max": 39.183216
+        },
+        "name": "1012 Table lamps",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "10 Lighting",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183146,
+              21.557991
+            ],
+            [
+              39.18316,
+              21.557923
+            ],
+            [
+              39.183195,
+              21.557929
+            ],
+            [
+              39.183182,
+              21.557998
+            ],
+            [
+              39.183146,
+              21.557991
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 29.0376,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557923,
+          "lat_max": 21.557998,
+          "lng_min": 39.183146,
+          "lng_max": 39.183195
+        },
+        "name": "1016 Wall Light",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "10 Lighting",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183017,
+              21.55797
+            ],
+            [
+              39.183025,
+              21.557931
+            ],
+            [
+              39.183028,
+              21.557914
+            ],
+            [
+              39.183031,
+              21.557914
+            ],
+            [
+              39.183033,
+              21.557901
+            ],
+            [
+              39.183038,
+              21.557876
+            ],
+            [
+              39.183051,
+              21.557878
+            ],
+            [
+              39.183071,
+              21.557881
+            ],
+            [
+              39.183066,
+              21.557907
+            ],
+            [
+              39.18316,
+              21.557923
+            ],
+            [
+              39.183146,
+              21.557991
+            ],
+            [
+              39.183017,
+              21.55797
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 115.0269,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557876,
+          "lat_max": 21.557991,
+          "lng_min": 39.183017,
+          "lng_max": 39.18316
+        },
+        "name": "1011 Floor Lamps",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "10 Lighting",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182892,
+              21.557948
+            ],
+            [
+              39.182929,
+              21.557953
+            ],
+            [
+              39.18294,
+              21.557898
+            ],
+            [
+              39.182903,
+              21.557893
+            ],
+            [
+              39.182892,
+              21.557948
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 24.0876,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557893,
+          "lat_max": 21.557953,
+          "lng_min": 39.182892,
+          "lng_max": 39.18294
+        },
+        "name": "1017 Bathroom Lighting",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "10 Lighting",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182846,
+              21.557939
+            ],
+            [
+              39.182697,
+              21.557913
+            ],
+            [
+              39.182729,
+              21.55775
+            ],
+            [
+              39.182817,
+              21.557765
+            ],
+            [
+              39.182795,
+              21.557873
+            ],
+            [
+              39.182857,
+              21.557884
+            ],
+            [
+              39.182846,
+              21.557939
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 210.7204,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.55775,
+          "lat_max": 21.557939,
+          "lng_min": 39.182697,
+          "lng_max": 39.182857
+        },
+        "name": "1311 Rugs",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "13 Rugs",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18292,
+              21.557832
+            ],
+            [
+              39.182929,
+              21.557783
+            ],
+            [
+              39.182841,
+              21.557768
+            ],
+            [
+              39.182824,
+              21.557855
+            ],
+            [
+              39.182853,
+              21.557859
+            ],
+            [
+              39.182866,
+              21.557789
+            ],
+            [
+              39.182911,
+              21.557797
+            ],
+            [
+              39.182905,
+              21.55783
+            ],
+            [
+              39.18292,
+              21.557832
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 46.8153,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557768,
+          "lat_max": 21.557859,
+          "lng_min": 39.182824,
+          "lng_max": 39.182929
+        },
+        "name": "1314 Small rugs and runners",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "13 Rugs",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182758,
+              21.557606
+            ],
+            [
+              39.182807,
+              21.557614
+            ],
+            [
+              39.182789,
+              21.557699
+            ],
+            [
+              39.182829,
+              21.557706
+            ],
+            [
+              39.182819,
+              21.557753
+            ],
+            [
+              39.182746,
+              21.55774
+            ],
+            [
+              39.182758,
+              21.557675
+            ],
+            [
+              39.182744,
+              21.557673
+            ],
+            [
+              39.182758,
+              21.557606
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 87.7009,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557606,
+          "lat_max": 21.557753,
+          "lng_min": 39.182744,
+          "lng_max": 39.182829
+        },
+        "name": "1645 Mirrors,",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "16 Decoration",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182949,
+              21.557638
+            ],
+            [
+              39.182956,
+              21.557598
+            ],
+            [
+              39.183003,
+              21.557606
+            ],
+            [
+              39.182993,
+              21.557654
+            ],
+            [
+              39.182947,
+              21.557646
+            ],
+            [
+              39.182949,
+              21.557638
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 26.4618,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557598,
+          "lat_max": 21.557654,
+          "lng_min": 39.182947,
+          "lng_max": 39.183003
+        },
+        "name": "1221 Metre fabrics_",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "12 Home textiles",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182949,
+              21.557638
+            ],
+            [
+              39.182831,
+              21.557618
+            ],
+            [
+              39.18284,
+              21.55757
+            ],
+            [
+              39.182904,
+              21.557581
+            ],
+            [
+              39.182925,
+              21.557479
+            ],
+            [
+              39.182978,
+              21.557488
+            ],
+            [
+              39.182949,
+              21.557638
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 132.5109,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557479,
+          "lat_max": 21.557638,
+          "lng_min": 39.182831,
+          "lng_max": 39.182978
+        },
+        "name": "1631 Candleholders 1632 Candles and atmosphere light",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "16 Decoration",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182925,
+              21.557479
+            ],
+            [
+              39.182931,
+              21.557448
+            ],
+            [
+              39.182864,
+              21.557436
+            ],
+            [
+              39.182875,
+              21.55738
+            ],
+            [
+              39.182996,
+              21.557402
+            ],
+            [
+              39.182978,
+              21.557488
+            ],
+            [
+              39.182925,
+              21.557479
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 99.9178,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.55738,
+          "lat_max": 21.557488,
+          "lng_min": 39.182864,
+          "lng_max": 39.182996
+        },
+        "name": "1623 Artificial plants",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "16 Decoration",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182849,
+              21.557358
+            ],
+            [
+              39.18283,
+              21.557453
+            ],
+            [
+              39.182903,
+              21.557466
+            ],
+            [
+              39.182895,
+              21.557504
+            ],
+            [
+              39.182782,
+              21.557485
+            ],
+            [
+              39.182809,
+              21.557352
+            ],
+            [
+              39.182849,
+              21.557358
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 97.0422,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557352,
+          "lat_max": 21.557504,
+          "lng_min": 39.182782,
+          "lng_max": 39.182903
+        },
+        "name": "1621 Plant pots 1622 Plants",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "16 Decoration",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182758,
+              21.557606
+            ],
+            [
+              39.182782,
+              21.557485
+            ],
+            [
+              39.182831,
+              21.557493
+            ],
+            [
+              39.182825,
+              21.557521
+            ],
+            [
+              39.18282,
+              21.557544
+            ],
+            [
+              39.182807,
+              21.557614
+            ],
+            [
+              39.182758,
+              21.557606
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 69.9406,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557485,
+          "lat_max": 21.557614,
+          "lng_min": 39.182758,
+          "lng_max": 39.182831
+        },
+        "name": "1633 Vases, bowls and accessories",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "16 Decoration",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183027,
+              21.55761
+            ],
+            [
+              39.18305,
+              21.557496
+            ],
+            [
+              39.183084,
+              21.557502
+            ],
+            [
+              39.183061,
+              21.557617
+            ],
+            [
+              39.183027,
+              21.55761
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 46.5906,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557496,
+          "lat_max": 21.557617,
+          "lng_min": 39.183027,
+          "lng_max": 39.183084
+        },
+        "name": "1433 Organisers and washing-up",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "14 Cooking",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18307,
+              21.557569
+            ],
+            [
+              39.183112,
+              21.557576
+            ],
+            [
+              39.183102,
+              21.557624
+            ],
+            [
+              39.183061,
+              21.557617
+            ],
+            [
+              39.18307,
+              21.557569
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 23.7246,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557569,
+          "lat_max": 21.557624,
+          "lng_min": 39.183061,
+          "lng_max": 39.183112
+        },
+        "name": "1551 Mugs and cups",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "15 Eating",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183102,
+              21.557624
+            ],
+            [
+              39.183153,
+              21.557632
+            ],
+            [
+              39.183208,
+              21.557641
+            ],
+            [
+              39.183218,
+              21.557594
+            ],
+            [
+              39.183112,
+              21.557576
+            ],
+            [
+              39.183102,
+              21.557624
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 59.9367,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557576,
+          "lat_max": 21.557641,
+          "lng_min": 39.183102,
+          "lng_max": 39.183218
+        },
+        "name": "1521 Drinking glasses",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "15 Eating",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183456,
+              21.557722
+            ],
+            [
+              39.183483,
+              21.557726
+            ],
+            [
+              39.183487,
+              21.557708
+            ],
+            [
+              39.18346,
+              21.557704
+            ],
+            [
+              39.183456,
+              21.557722
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 5.7856,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557704,
+          "lat_max": 21.557726,
+          "lng_min": 39.183456,
+          "lng_max": 39.183487
+        },
+        "name": "0632 Shower Mixers and Accessories",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "06 Bathroom",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183177,
+              21.557071
+            ],
+            [
+              39.183241,
+              21.557081
+            ],
+            [
+              39.183246,
+              21.557053
+            ],
+            [
+              39.183182,
+              21.557042
+            ],
+            [
+              39.183177,
+              21.557071
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 21.6271,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557042,
+          "lat_max": 21.557081,
+          "lng_min": 39.183177,
+          "lng_max": 39.183246
+        },
+        "name": "Activity area 3",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Activity area",
+        "parent_2": "Selfserve",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183149,
+              21.557065
+            ],
+            [
+              39.182916,
+              21.557023
+            ],
+            [
+              39.182929,
+              21.556958
+            ],
+            [
+              39.183105,
+              21.55699
+            ],
+            [
+              39.183101,
+              21.557013
+            ],
+            [
+              39.183158,
+              21.557022
+            ],
+            [
+              39.183149,
+              21.557065
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 165.4044,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.556958,
+          "lat_max": 21.557065,
+          "lng_min": 39.182916,
+          "lng_max": 39.183158
+        },
+        "name": "Activity Area 2",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Activity area",
+        "parent_2": "Selfserve",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182849,
+              21.557338
+            ],
+            [
+              39.182919,
+              21.557349
+            ],
+            [
+              39.182977,
+              21.557058
+            ],
+            [
+              39.182896,
+              21.557043
+            ],
+            [
+              39.182837,
+              21.557335
+            ],
+            [
+              39.182849,
+              21.557338
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 284.0333,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557043,
+          "lat_max": 21.557349,
+          "lng_min": 39.182837,
+          "lng_max": 39.182977
+        },
+        "name": "Activity Area 1",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Activity area",
+        "parent_2": "Selfserve",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182837,
+              21.557335
+            ],
+            [
+              39.182798,
+              21.557329
+            ],
+            [
+              39.182992,
+              21.556401
+            ],
+            [
+              39.183026,
+              21.556407
+            ],
+            [
+              39.182837,
+              21.557335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 403.6257,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.556401,
+          "lat_max": 21.557335,
+          "lng_min": 39.182798,
+          "lng_max": 39.183026
+        },
+        "name": "area4",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Storage Area",
+        "parent_2": "Selfserve",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183511,
+              21.557789
+            ],
+            [
+              39.183513,
+              21.557781
+            ],
+            [
+              39.18359,
+              21.557794
+            ],
+            [
+              39.183588,
+              21.557802
+            ],
+            [
+              39.183511,
+              21.557789
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 7.3992,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557781,
+          "lat_max": 21.557802,
+          "lng_min": 39.183511,
+          "lng_max": 39.18359
+        },
+        "name": "0622 Bathroom Towel Solutions",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "06 Bathroom",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183182,
+              21.557998
+            ],
+            [
+              39.183195,
+              21.557929
+            ],
+            [
+              39.183256,
+              21.55794
+            ],
+            [
+              39.183259,
+              21.557925
+            ],
+            [
+              39.183306,
+              21.557933
+            ],
+            [
+              39.1833,
+              21.557963
+            ],
+            [
+              39.18333,
+              21.557969
+            ],
+            [
+              39.183319,
+              21.558022
+            ],
+            [
+              39.183182,
+              21.557998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 115.6896,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557925,
+          "lat_max": 21.558022,
+          "lng_min": 39.183182,
+          "lng_max": 39.18333
+        },
+        "name": "1811 Boxes and Baskets",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "18 Home organisation",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183336,
+              21.558024
+            ],
+            [
+              39.183347,
+              21.557972
+            ],
+            [
+              39.183385,
+              21.557978
+            ],
+            [
+              39.183374,
+              21.558031
+            ],
+            [
+              39.183336,
+              21.558024
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 23.8167,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557972,
+          "lat_max": 21.558031,
+          "lng_min": 39.183336,
+          "lng_max": 39.183385
+        },
+        "name": "1814 Storage Boxes",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "18 Home organisation",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183385,
+              21.558033
+            ],
+            [
+              39.183396,
+              21.55798
+            ],
+            [
+              39.18341,
+              21.557982
+            ],
+            [
+              39.183399,
+              21.558036
+            ],
+            [
+              39.183385,
+              21.558033
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 8.9493,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.55798,
+          "lat_max": 21.558036,
+          "lng_min": 39.183385,
+          "lng_max": 39.18341
+        },
+        "name": "1852 Sorting Bins",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "18 Home organisation",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183407,
+              21.558037
+            ],
+            [
+              39.183417,
+              21.557984
+            ],
+            [
+              39.183467,
+              21.557993
+            ],
+            [
+              39.183458,
+              21.558045
+            ],
+            [
+              39.183407,
+              21.558037
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 31.4867,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557984,
+          "lat_max": 21.558045,
+          "lng_min": 39.183407,
+          "lng_max": 39.183467
+        },
+        "name": "1832 Hangers and acc for Clothes and sho",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "18 Home organisation",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183017,
+              21.55797
+            ],
+            [
+              39.182946,
+              21.557957
+            ],
+            [
+              39.182957,
+              21.557901
+            ],
+            [
+              39.182988,
+              21.557907
+            ],
+            [
+              39.182996,
+              21.557869
+            ],
+            [
+              39.183038,
+              21.557876
+            ],
+            [
+              39.183031,
+              21.557914
+            ],
+            [
+              39.183028,
+              21.557914
+            ],
+            [
+              39.183017,
+              21.55797
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 66.6788,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557869,
+          "lat_max": 21.55797,
+          "lng_min": 39.182946,
+          "lng_max": 39.183038
+        },
+        "name": "1043 Integrated Lighting",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "10 Lighting",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182846,
+              21.557939
+            ],
+            [
+              39.182892,
+              21.557948
+            ],
+            [
+              39.182903,
+              21.557893
+            ],
+            [
+              39.182857,
+              21.557884
+            ],
+            [
+              39.182846,
+              21.557939
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 30.2997,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557884,
+          "lat_max": 21.557948,
+          "lng_min": 39.182846,
+          "lng_max": 39.182903
+        },
+        "name": "1312 Oriental Rugs",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "13 Rugs",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182817,
+              21.557765
+            ],
+            [
+              39.182729,
+              21.55775
+            ],
+            [
+              39.182744,
+              21.557673
+            ],
+            [
+              39.182758,
+              21.557675
+            ],
+            [
+              39.182746,
+              21.55774
+            ],
+            [
+              39.182819,
+              21.557753
+            ],
+            [
+              39.182817,
+              21.557765
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 23.7995,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557673,
+          "lat_max": 21.557765,
+          "lng_min": 39.182729,
+          "lng_max": 39.182819
+        },
+        "name": "Ready to hang frames",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "16 Decoration",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18282,
+              21.557544
+            ],
+            [
+              39.182885,
+              21.557555
+            ],
+            [
+              39.182895,
+              21.557504
+            ],
+            [
+              39.182831,
+              21.557493
+            ],
+            [
+              39.182825,
+              21.557521
+            ],
+            [
+              39.18282,
+              21.557544
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 39.2318,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557493,
+          "lat_max": 21.557555,
+          "lng_min": 39.18282,
+          "lng_max": 39.182895
+        },
+        "name": "1634 Artificial flowers",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "16 Decoration",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182866,
+              21.557789
+            ],
+            [
+              39.182911,
+              21.557797
+            ],
+            [
+              39.182905,
+              21.55783
+            ],
+            [
+              39.18292,
+              21.557832
+            ],
+            [
+              39.182912,
+              21.55787
+            ],
+            [
+              39.182853,
+              21.557859
+            ],
+            [
+              39.182866,
+              21.557789
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 44.1702,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557789,
+          "lat_max": 21.55787,
+          "lng_min": 39.182853,
+          "lng_max": 39.18292
+        },
+        "name": "1313 Doormats & accessories",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "13 Rugs",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182912,
+              21.55787
+            ],
+            [
+              39.182969,
+              21.55788
+            ],
+            [
+              39.182976,
+              21.557842
+            ],
+            [
+              39.182984,
+              21.557844
+            ],
+            [
+              39.182994,
+              21.557796
+            ],
+            [
+              39.182929,
+              21.557783
+            ],
+            [
+              39.18292,
+              21.557832
+            ],
+            [
+              39.182912,
+              21.55787
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 62.8468,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557783,
+          "lat_max": 21.55788,
+          "lng_min": 39.182912,
+          "lng_max": 39.182994
+        },
+        "name": "1013 Pendant lamps__",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "10 Lighting",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182984,
+              21.557844
+            ],
+            [
+              39.183091,
+              21.557862
+            ],
+            [
+              39.183102,
+              21.557814
+            ],
+            [
+              39.182994,
+              21.557796
+            ],
+            [
+              39.182984,
+              21.557844
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 61.6481,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557796,
+          "lat_max": 21.557862,
+          "lng_min": 39.182984,
+          "lng_max": 39.183102
+        },
+        "name": "1015 Shades, bases and cord sets",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "10 Lighting",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183201,
+              21.557907
+            ],
+            [
+              39.183237,
+              21.557913
+            ],
+            [
+              39.18324,
+              21.557899
+            ],
+            [
+              39.18326,
+              21.557902
+            ],
+            [
+              39.183273,
+              21.557844
+            ],
+            [
+              39.183216,
+              21.557833
+            ],
+            [
+              39.183201,
+              21.557907
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 46.0142,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557833,
+          "lat_max": 21.557913,
+          "lng_min": 39.183201,
+          "lng_max": 39.183273
+        },
+        "name": "0216 Wall shelves",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "02 Store and organise furniture",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18326,
+              21.557902
+            ],
+            [
+              39.183323,
+              21.557913
+            ],
+            [
+              39.183335,
+              21.557855
+            ],
+            [
+              39.183273,
+              21.557844
+            ],
+            [
+              39.18326,
+              21.557902
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 43.3634,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557844,
+          "lat_max": 21.557913,
+          "lng_min": 39.18326,
+          "lng_max": 39.183335
+        },
+        "name": "1821 Boards",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "18 Home organisation",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183323,
+              21.557913
+            ],
+            [
+              39.183334,
+              21.557915
+            ],
+            [
+              39.183328,
+              21.557946
+            ],
+            [
+              39.183371,
+              21.557953
+            ],
+            [
+              39.183388,
+              21.557864
+            ],
+            [
+              39.183335,
+              21.557855
+            ],
+            [
+              39.183323,
+              21.557913
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 52.8141,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557855,
+          "lat_max": 21.557953,
+          "lng_min": 39.183323,
+          "lng_max": 39.183388
+        },
+        "name": "1812 Stationery",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "18 Home organisation",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183438,
+              21.557872
+            ],
+            [
+              39.183441,
+              21.557857
+            ],
+            [
+              39.183367,
+              21.557844
+            ],
+            [
+              39.183377,
+              21.557793
+            ],
+            [
+              39.183405,
+              21.557798
+            ],
+            [
+              39.183408,
+              21.557784
+            ],
+            [
+              39.183364,
+              21.557777
+            ],
+            [
+              39.183348,
+              21.557857
+            ],
+            [
+              39.183388,
+              21.557864
+            ],
+            [
+              39.183438,
+              21.557872
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 33.3596,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557777,
+          "lat_max": 21.557872,
+          "lng_min": 39.183348,
+          "lng_max": 39.183441
+        },
+        "name": "0623 Bathroom, shower and toilet solutio",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "06 Bathroom",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183405,
+              21.557798
+            ],
+            [
+              39.183451,
+              21.557806
+            ],
+            [
+              39.183449,
+              21.557818
+            ],
+            [
+              39.18348,
+              21.557824
+            ],
+            [
+              39.183494,
+              21.557751
+            ],
+            [
+              39.183453,
+              21.557744
+            ],
+            [
+              39.183443,
+              21.55779
+            ],
+            [
+              39.183408,
+              21.557784
+            ],
+            [
+              39.183405,
+              21.557798
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 40.4361,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557744,
+          "lat_max": 21.557824,
+          "lng_min": 39.183405,
+          "lng_max": 39.183494
+        },
+        "name": "0621 Bathroom around the sink",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "06 Bathroom",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183441,
+              21.557857
+            ],
+            [
+              39.183367,
+              21.557844
+            ],
+            [
+              39.183377,
+              21.557793
+            ],
+            [
+              39.183405,
+              21.557798
+            ],
+            [
+              39.183451,
+              21.557806
+            ],
+            [
+              39.183449,
+              21.557818
+            ],
+            [
+              39.183441,
+              21.557857
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 45.0634,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557793,
+          "lat_max": 21.557857,
+          "lng_min": 39.183367,
+          "lng_max": 39.183451
+        },
+        "name": "1132 Bathmats",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "11 Bed and bath textiles",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183364,
+              21.557777
+            ],
+            [
+              39.183366,
+              21.557764
+            ],
+            [
+              39.18331,
+              21.557754
+            ],
+            [
+              39.183304,
+              21.557783
+            ],
+            [
+              39.183201,
+              21.557765
+            ],
+            [
+              39.183191,
+              21.557815
+            ],
+            [
+              39.183136,
+              21.557805
+            ],
+            [
+              39.183151,
+              21.557728
+            ],
+            [
+              39.183134,
+              21.557725
+            ],
+            [
+              39.183116,
+              21.557817
+            ],
+            [
+              39.183216,
+              21.557833
+            ],
+            [
+              39.183273,
+              21.557844
+            ],
+            [
+              39.183335,
+              21.557855
+            ],
+            [
+              39.183348,
+              21.557857
+            ],
+            [
+              39.183364,
+              21.557777
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 169.2645,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557725,
+          "lat_max": 21.557857,
+          "lng_min": 39.183116,
+          "lng_max": 39.183366
+        },
+        "name": "1112 Duvet covers",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "11 Bed and bath textiles",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183136,
+              21.557805
+            ],
+            [
+              39.183151,
+              21.557728
+            ],
+            [
+              39.183198,
+              21.557736
+            ],
+            [
+              39.183193,
+              21.557763
+            ],
+            [
+              39.183201,
+              21.557765
+            ],
+            [
+              39.183191,
+              21.557815
+            ],
+            [
+              39.183136,
+              21.557805
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 48.2213,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557728,
+          "lat_max": 21.557815,
+          "lng_min": 39.183136,
+          "lng_max": 39.183201
+        },
+        "name": "1111 Sheets and pillow cases",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "11 Bed and bath textiles",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183068,
+              21.557795
+            ],
+            [
+              39.183077,
+              21.557747
+            ],
+            [
+              39.183079,
+              21.557747
+            ],
+            [
+              39.183085,
+              21.557716
+            ],
+            [
+              39.183134,
+              21.557725
+            ],
+            [
+              39.183116,
+              21.557817
+            ],
+            [
+              39.183106,
+              21.557801
+            ],
+            [
+              39.183068,
+              21.557795
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 48.0081,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557716,
+          "lat_max": 21.557817,
+          "lng_min": 39.183068,
+          "lng_max": 39.183134
+        },
+        "name": "1213 Blinds",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "12 Home textiles",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183068,
+              21.557795
+            ],
+            [
+              39.182976,
+              21.557778
+            ],
+            [
+              39.182985,
+              21.55773
+            ],
+            [
+              39.183077,
+              21.557747
+            ],
+            [
+              39.183068,
+              21.557795
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 52.6585,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.55773,
+          "lat_max": 21.557795,
+          "lng_min": 39.182976,
+          "lng_max": 39.183077
+        },
+        "name": "1214 Curtain rods and systems",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "12 Home textiles",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183068,
+              21.557795
+            ],
+            [
+              39.182976,
+              21.557778
+            ],
+            [
+              39.182985,
+              21.55773
+            ],
+            [
+              39.182978,
+              21.557729
+            ],
+            [
+              39.182991,
+              21.557665
+            ],
+            [
+              39.182945,
+              21.557656
+            ],
+            [
+              39.18292,
+              21.557782
+            ],
+            [
+              39.182929,
+              21.557783
+            ],
+            [
+              39.182994,
+              21.557796
+            ],
+            [
+              39.183066,
+              21.557808
+            ],
+            [
+              39.183102,
+              21.557814
+            ],
+            [
+              39.183116,
+              21.557817
+            ],
+            [
+              39.183106,
+              21.557801
+            ],
+            [
+              39.183068,
+              21.557795
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 95.9759,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557656,
+          "lat_max": 21.557817,
+          "lng_min": 39.18292,
+          "lng_max": 39.183116
+        },
+        "name": "1211 Curtains and window panels",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "12 Home textiles",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183027,
+              21.55761
+            ],
+            [
+              39.183019,
+              21.557648
+            ],
+            [
+              39.183077,
+              21.557658
+            ],
+            [
+              39.183084,
+              21.557621
+            ],
+            [
+              39.183027,
+              21.55761
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 25.7588,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.55761,
+          "lat_max": 21.557658,
+          "lng_min": 39.183019,
+          "lng_max": 39.183084
+        },
+        "name": "1232 Throws",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "12 Home textiles",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183019,
+              21.557648
+            ],
+            [
+              39.183007,
+              21.557711
+            ],
+            [
+              39.183058,
+              21.55772
+            ],
+            [
+              39.183064,
+              21.557689
+            ],
+            [
+              39.183098,
+              21.557695
+            ],
+            [
+              39.183104,
+              21.557667
+            ],
+            [
+              39.183128,
+              21.557671
+            ],
+            [
+              39.18313,
+              21.557661
+            ],
+            [
+              39.183146,
+              21.557664
+            ],
+            [
+              39.183153,
+              21.557632
+            ],
+            [
+              39.183084,
+              21.557621
+            ],
+            [
+              39.183077,
+              21.557658
+            ],
+            [
+              39.183019,
+              21.557648
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 82.0881,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557621,
+          "lat_max": 21.55772,
+          "lng_min": 39.183007,
+          "lng_max": 39.183153
+        },
+        "name": "1231 Cushions",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "12 Home textiles",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183146,
+              21.557664
+            ],
+            [
+              39.183138,
+              21.557702
+            ],
+            [
+              39.183098,
+              21.557695
+            ],
+            [
+              39.183104,
+              21.557667
+            ],
+            [
+              39.183128,
+              21.557671
+            ],
+            [
+              39.18313,
+              21.557661
+            ],
+            [
+              39.183146,
+              21.557664
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 15.3285,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557661,
+          "lat_max": 21.557702,
+          "lng_min": 39.183098,
+          "lng_max": 39.183146
+        },
+        "name": "1233 Chairpads",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "12 Home textiles",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183155,
+              21.557705
+            ],
+            [
+              39.183166,
+              21.55765
+            ],
+            [
+              39.183256,
+              21.557665
+            ],
+            [
+              39.183245,
+              21.557721
+            ],
+            [
+              39.183155,
+              21.557705
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 59.5333,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.55765,
+          "lat_max": 21.557721,
+          "lng_min": 39.183155,
+          "lng_max": 39.183256
+        },
+        "name": "1121 Duvets",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "11 Bed and bath textiles",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183155,
+              21.557705
+            ],
+            [
+              39.183138,
+              21.557702
+            ],
+            [
+              39.183153,
+              21.557632
+            ],
+            [
+              39.183313,
+              21.557659
+            ],
+            [
+              39.183298,
+              21.557729
+            ],
+            [
+              39.18329,
+              21.557728
+            ],
+            [
+              39.183284,
+              21.557757
+            ],
+            [
+              39.183221,
+              21.557745
+            ],
+            [
+              39.183227,
+              21.557718
+            ],
+            [
+              39.183245,
+              21.557721
+            ],
+            [
+              39.183256,
+              21.557665
+            ],
+            [
+              39.183166,
+              21.55765
+            ],
+            [
+              39.183155,
+              21.557705
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 96.1777,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557632,
+          "lat_max": 21.557757,
+          "lng_min": 39.183138,
+          "lng_max": 39.183313
+        },
+        "name": "1122 Pillows",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "11 Bed and bath textiles",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183313,
+              21.557659
+            ],
+            [
+              39.183376,
+              21.55767
+            ],
+            [
+              39.183362,
+              21.55774
+            ],
+            [
+              39.183298,
+              21.557729
+            ],
+            [
+              39.183313,
+              21.557659
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 53.0677,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557659,
+          "lat_max": 21.55774,
+          "lng_min": 39.183298,
+          "lng_max": 39.183376
+        },
+        "name": "1123 Mattress and pillow protectors",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "11 Bed and bath textiles",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182849,
+              21.557726
+            ],
+            [
+              39.182876,
+              21.55773
+            ],
+            [
+              39.182871,
+              21.557759
+            ],
+            [
+              39.182879,
+              21.557761
+            ],
+            [
+              39.182877,
+              21.557774
+            ],
+            [
+              39.182841,
+              21.557768
+            ],
+            [
+              39.182849,
+              21.557726
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 15,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557726,
+          "lat_max": 21.557774,
+          "lng_min": 39.182841,
+          "lng_max": 39.182879
+        },
+        "name": "1643 Clocks_",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "16 Decoration",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182849,
+              21.557726
+            ],
+            [
+              39.182857,
+              21.557688
+            ],
+            [
+              39.182818,
+              21.557682
+            ],
+            [
+              39.182831,
+              21.557618
+            ],
+            [
+              39.182949,
+              21.557638
+            ],
+            [
+              39.182945,
+              21.557656
+            ],
+            [
+              39.18292,
+              21.557782
+            ],
+            [
+              39.182877,
+              21.557774
+            ],
+            [
+              39.182879,
+              21.557761
+            ],
+            [
+              39.182871,
+              21.557759
+            ],
+            [
+              39.182876,
+              21.55773
+            ],
+            [
+              39.182849,
+              21.557726
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 149.8331,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557618,
+          "lat_max": 21.557782,
+          "lng_min": 39.182818,
+          "lng_max": 39.182949
+        },
+        "name": "1641 Frames",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "16 Decoration",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182956,
+              21.557598
+            ],
+            [
+              39.183003,
+              21.557606
+            ],
+            [
+              39.18303,
+              21.55747
+            ],
+            [
+              39.182984,
+              21.557462
+            ],
+            [
+              39.182978,
+              21.557488
+            ],
+            [
+              39.182956,
+              21.557598
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 75.928,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557462,
+          "lat_max": 21.557606,
+          "lng_min": 39.182956,
+          "lng_max": 39.18303
+        },
+        "name": "1431 Food containers",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "14 Cooking",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183109,
+              21.557575
+            ],
+            [
+              39.183122,
+              21.557508
+            ],
+            [
+              39.183084,
+              21.557502
+            ],
+            [
+              39.18307,
+              21.557569
+            ],
+            [
+              39.183109,
+              21.557575
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 30.6628,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557502,
+          "lat_max": 21.557575,
+          "lng_min": 39.18307,
+          "lng_max": 39.183122
+        },
+        "name": "1552 Coffee and tea accessories",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "15 Eating",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183218,
+              21.557594
+            ],
+            [
+              39.183232,
+              21.557596
+            ],
+            [
+              39.183233,
+              21.55759
+            ],
+            [
+              39.183275,
+              21.557597
+            ],
+            [
+              39.183263,
+              21.55765
+            ],
+            [
+              39.183208,
+              21.557641
+            ],
+            [
+              39.183218,
+              21.557594
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 34.1088,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.55759,
+          "lat_max": 21.55765,
+          "lng_min": 39.183208,
+          "lng_max": 39.183275
+        },
+        "name": "1542 Trays",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "15 Eating",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183275,
+              21.557597
+            ],
+            [
+              39.183284,
+              21.557553
+            ],
+            [
+              39.183242,
+              21.557546
+            ],
+            [
+              39.183233,
+              21.55759
+            ],
+            [
+              39.183275,
+              21.557597
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 22.0246,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557546,
+          "lat_max": 21.557597,
+          "lng_min": 39.183233,
+          "lng_max": 39.183284
+        },
+        "name": "1541 Napkins",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "15 Eating",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183284,
+              21.557553
+            ],
+            [
+              39.183275,
+              21.557597
+            ],
+            [
+              39.183263,
+              21.55765
+            ],
+            [
+              39.183277,
+              21.557653
+            ],
+            [
+              39.183296,
+              21.557555
+            ],
+            [
+              39.183284,
+              21.557553
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 14.8905,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557553,
+          "lat_max": 21.557653,
+          "lng_min": 39.183263,
+          "lng_max": 39.183296
+        },
+        "name": "1543 Eating textiles",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "15 Eating",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182984,
+              21.557462
+            ],
+            [
+              39.18303,
+              21.55747
+            ],
+            [
+              39.183063,
+              21.557476
+            ],
+            [
+              39.183077,
+              21.557414
+            ],
+            [
+              39.182996,
+              21.557402
+            ],
+            [
+              39.182984,
+              21.557462
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 58.1216,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557402,
+          "lat_max": 21.557476,
+          "lng_min": 39.182984,
+          "lng_max": 39.183077
+        },
+        "name": "1411 Pots and cooking accessories",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "14 Cooking",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183063,
+              21.557476
+            ],
+            [
+              39.18309,
+              21.55748
+            ],
+            [
+              39.183103,
+              21.557419
+            ],
+            [
+              39.183077,
+              21.557414
+            ],
+            [
+              39.183063,
+              21.557476
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 19.4834,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557414,
+          "lat_max": 21.55748,
+          "lng_min": 39.183063,
+          "lng_max": 39.183103
+        },
+        "name": "1412 Pans",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "14 Cooking",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18309,
+              21.55748
+            ],
+            [
+              39.183151,
+              21.557491
+            ],
+            [
+              39.183149,
+              21.557498
+            ],
+            [
+              39.183184,
+              21.557504
+            ],
+            [
+              39.183198,
+              21.557436
+            ],
+            [
+              39.183103,
+              21.557419
+            ],
+            [
+              39.18309,
+              21.55748
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 72.4417,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557419,
+          "lat_max": 21.557504,
+          "lng_min": 39.18309,
+          "lng_max": 39.183198
+        },
+        "name": "1411 Pots and cooking accessories",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "14 Cooking",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183137,
+              21.557557
+            ],
+            [
+              39.183142,
+              21.557533
+            ],
+            [
+              39.183177,
+              21.557539
+            ],
+            [
+              39.183172,
+              21.557563
+            ],
+            [
+              39.183137,
+              21.557557
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 10.0269,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557533,
+          "lat_max": 21.557563,
+          "lng_min": 39.183137,
+          "lng_max": 39.183177
+        },
+        "name": "1424 Chopping boards",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "14 Cooking",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183142,
+              21.557533
+            ],
+            [
+              39.183149,
+              21.557498
+            ],
+            [
+              39.183184,
+              21.557504
+            ],
+            [
+              39.183177,
+              21.557539
+            ],
+            [
+              39.183142,
+              21.557533
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 14.6024,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557498,
+          "lat_max": 21.557539,
+          "lng_min": 39.183142,
+          "lng_max": 39.183184
+        },
+        "name": "1423 Knives",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "14 Cooking",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183172,
+              21.557563
+            ],
+            [
+              39.183212,
+              21.55757
+            ],
+            [
+              39.183223,
+              21.557515
+            ],
+            [
+              39.18323,
+              21.557516
+            ],
+            [
+              39.183245,
+              21.557444
+            ],
+            [
+              39.183198,
+              21.557436
+            ],
+            [
+              39.183184,
+              21.557504
+            ],
+            [
+              39.183177,
+              21.557539
+            ],
+            [
+              39.183172,
+              21.557563
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 66.5062,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557436,
+          "lat_max": 21.55757,
+          "lng_min": 39.183172,
+          "lng_max": 39.183245
+        },
+        "name": "1511 Dinnerware",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "15 Eating",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18323,
+              21.557516
+            ],
+            [
+              39.183301,
+              21.557528
+            ],
+            [
+              39.183315,
+              21.557456
+            ],
+            [
+              39.183245,
+              21.557444
+            ],
+            [
+              39.18323,
+              21.557516
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 60.5073,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557444,
+          "lat_max": 21.557528,
+          "lng_min": 39.18323,
+          "lng_max": 39.183315
+        },
+        "name": "1531 Cutlery_",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "15 Eating",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183412,
+              21.557506
+            ],
+            [
+              39.183409,
+              21.557523
+            ],
+            [
+              39.183428,
+              21.557527
+            ],
+            [
+              39.183453,
+              21.557531
+            ],
+            [
+              39.183457,
+              21.557514
+            ],
+            [
+              39.183412,
+              21.557506
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 9.1798,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557506,
+          "lat_max": 21.557531,
+          "lng_min": 39.183409,
+          "lng_max": 39.183457
+        },
+        "name": "MH Entrance",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "",
+        "parent_2": "",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18334,
+              21.55709
+            ],
+            [
+              39.183571,
+              21.557132
+            ],
+            [
+              39.183582,
+              21.557081
+            ],
+            [
+              39.18335,
+              21.557042
+            ],
+            [
+              39.18334,
+              21.55709
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 136.9716,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 30,
+        "min_max_coords": {
+          "lat_min": 21.557042,
+          "lat_max": 21.557132,
+          "lng_min": 39.18334,
+          "lng_max": 39.183582
+        },
+        "name": "cashier11-14",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "cashier_zone",
+        "parent_2": "Customerservice",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183326,
+              21.557161
+            ],
+            [
+              39.183556,
+              21.557204
+            ],
+            [
+              39.183571,
+              21.557132
+            ],
+            [
+              39.18334,
+              21.55709
+            ],
+            [
+              39.183326,
+              21.557161
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 197.0468,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 120,
+        "min_max_coords": {
+          "lat_min": 21.55709,
+          "lat_max": 21.557204,
+          "lng_min": 39.183326,
+          "lng_max": 39.183571
+        },
+        "name": "cashier15-19",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "cashier_zone",
+        "parent_2": "Customerservice",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18331,
+              21.557241
+            ],
+            [
+              39.183326,
+              21.557161
+            ],
+            [
+              39.183556,
+              21.557204
+            ],
+            [
+              39.18354,
+              21.557282
+            ],
+            [
+              39.18331,
+              21.557241
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 217.1582,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 120,
+        "min_max_coords": {
+          "lat_min": 21.557161,
+          "lat_max": 21.557282,
+          "lng_min": 39.18331,
+          "lng_max": 39.183556
+        },
+        "name": "cashier20-25",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "cashier_zone",
+        "parent_2": "Customerservice",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183638,
+              21.556733
+            ],
+            [
+              39.183677,
+              21.55674
+            ],
+            [
+              39.183696,
+              21.556653
+            ],
+            [
+              39.183657,
+              21.556646
+            ],
+            [
+              39.183638,
+              21.556733
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 40.6381,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.556646,
+          "lat_max": 21.55674,
+          "lng_min": 39.183638,
+          "lng_max": 39.183696
+        },
+        "name": "MPU Order collection",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "MPU",
+        "parent_2": "Customerservice",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183585,
+              21.55688
+            ],
+            [
+              39.183633,
+              21.556888
+            ],
+            [
+              39.18365,
+              21.556802
+            ],
+            [
+              39.183603,
+              21.556792
+            ],
+            [
+              39.183585,
+              21.55688
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 49.4433,
+        "max_distance": 50,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.556792,
+          "lat_max": 21.556888,
+          "lng_min": 39.183585,
+          "lng_max": 39.18365
+        },
+        "name": "Excahnge & Return",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "E&R",
+        "parent_2": "Customerservice",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183101,
+              21.557013
+            ],
+            [
+              39.183158,
+              21.557022
+            ],
+            [
+              39.183162,
+              21.557001
+            ],
+            [
+              39.183105,
+              21.55699
+            ],
+            [
+              39.183101,
+              21.557013
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 14.9137,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.55699,
+          "lat_max": 21.557022,
+          "lng_min": 39.183101,
+          "lng_max": 39.183162
+        },
+        "name": "Info activity area 2",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Activity area",
+        "parent_2": "Selfserve",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182919,
+              21.557349
+            ],
+            [
+              39.183065,
+              21.557374
+            ],
+            [
+              39.183128,
+              21.557076
+            ],
+            [
+              39.182979,
+              21.557049
+            ],
+            [
+              39.182977,
+              21.557058
+            ],
+            [
+              39.182919,
+              21.557349
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 527.0656,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557049,
+          "lat_max": 21.557374,
+          "lng_min": 39.182919,
+          "lng_max": 39.183128
+        },
+        "name": "area1",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Storage Area",
+        "parent_2": "Selfserve",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183128,
+              21.557076
+            ],
+            [
+              39.183294,
+              21.557107
+            ],
+            [
+              39.183235,
+              21.557405
+            ],
+            [
+              39.183065,
+              21.557374
+            ],
+            [
+              39.183128,
+              21.557076
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 598.7927,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557076,
+          "lat_max": 21.557405,
+          "lng_min": 39.183065,
+          "lng_max": 39.183294
+        },
+        "name": "area2",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Storage Area",
+        "parent_2": "Selfserve",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183235,
+              21.557405
+            ],
+            [
+              39.183382,
+              21.557429
+            ],
+            [
+              39.183402,
+              21.557337
+            ],
+            [
+              39.183411,
+              21.557284
+            ],
+            [
+              39.183369,
+              21.557276
+            ],
+            [
+              39.183372,
+              21.557264
+            ],
+            [
+              39.183267,
+              21.557245
+            ],
+            [
+              39.183235,
+              21.557405
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 272.9285,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557245,
+          "lat_max": 21.557429,
+          "lng_min": 39.183235,
+          "lng_max": 39.183411
+        },
+        "name": "area3",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Storage Area",
+        "parent_2": "Selfserve",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182917,
+              21.556943
+            ],
+            [
+              39.183065,
+              21.55697
+            ],
+            [
+              39.183173,
+              21.556422
+            ],
+            [
+              39.183026,
+              21.556407
+            ],
+            [
+              39.182917,
+              21.556943
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 947.6474,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.556407,
+          "lat_max": 21.55697,
+          "lng_min": 39.182917,
+          "lng_max": 39.183173
+        },
+        "name": "area5",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Storage Area",
+        "parent_2": "Selfserve",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183065,
+              21.55697
+            ],
+            [
+              39.18317,
+              21.556989
+            ],
+            [
+              39.183285,
+              21.556441
+            ],
+            [
+              39.183173,
+              21.556422
+            ],
+            [
+              39.183065,
+              21.55697
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 709.6852,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.556422,
+          "lat_max": 21.556989,
+          "lng_min": 39.183065,
+          "lng_max": 39.183285
+        },
+        "name": "area6",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Storage Area",
+        "parent_2": "Selfserve",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18317,
+              21.556989
+            ],
+            [
+              39.183163,
+              21.557027
+            ],
+            [
+              39.183298,
+              21.557051
+            ],
+            [
+              39.183337,
+              21.556883
+            ],
+            [
+              39.183373,
+              21.556891
+            ],
+            [
+              39.183403,
+              21.556746
+            ],
+            [
+              39.183429,
+              21.55661
+            ],
+            [
+              39.183453,
+              21.556614
+            ],
+            [
+              39.183476,
+              21.556482
+            ],
+            [
+              39.183285,
+              21.556441
+            ],
+            [
+              39.18317,
+              21.556989
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 1175.0868,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.556441,
+          "lat_max": 21.557051,
+          "lng_min": 39.183163,
+          "lng_max": 39.183476
+        },
+        "name": "area7",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Storage Area",
+        "parent_2": "Selfserve",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183438,
+              21.557872
+            ],
+            [
+              39.183461,
+              21.557877
+            ],
+            [
+              39.183468,
+              21.557845
+            ],
+            [
+              39.183499,
+              21.55785
+            ],
+            [
+              39.183517,
+              21.557758
+            ],
+            [
+              39.183595,
+              21.557772
+            ],
+            [
+              39.183606,
+              21.55773
+            ],
+            [
+              39.183584,
+              21.557726
+            ],
+            [
+              39.183579,
+              21.557753
+            ],
+            [
+              39.183521,
+              21.557743
+            ],
+            [
+              39.183526,
+              21.557715
+            ],
+            [
+              39.183487,
+              21.557708
+            ],
+            [
+              39.183483,
+              21.557726
+            ],
+            [
+              39.183456,
+              21.557722
+            ],
+            [
+              39.18346,
+              21.557704
+            ],
+            [
+              39.183372,
+              21.557689
+            ],
+            [
+              39.183358,
+              21.557763
+            ],
+            [
+              39.183366,
+              21.557764
+            ],
+            [
+              39.183364,
+              21.557777
+            ],
+            [
+              39.183443,
+              21.55779
+            ],
+            [
+              39.183453,
+              21.557744
+            ],
+            [
+              39.183494,
+              21.557751
+            ],
+            [
+              39.18348,
+              21.557824
+            ],
+            [
+              39.183449,
+              21.557818
+            ],
+            [
+              39.183438,
+              21.557872
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 179.8504,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557689,
+          "lat_max": 21.557877,
+          "lng_min": 39.183358,
+          "lng_max": 39.183606
+        },
+        "name": "06 Aisle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "06 Bathroom",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183438,
+              21.557872
+            ],
+            [
+              39.183461,
+              21.557877
+            ],
+            [
+              39.183457,
+              21.557902
+            ],
+            [
+              39.18349,
+              21.557907
+            ],
+            [
+              39.183473,
+              21.557994
+            ],
+            [
+              39.183368,
+              21.557975
+            ],
+            [
+              39.183371,
+              21.557953
+            ],
+            [
+              39.183453,
+              21.557967
+            ],
+            [
+              39.183461,
+              21.557925
+            ],
+            [
+              39.183428,
+              21.55792
+            ],
+            [
+              39.183438,
+              21.557872
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 62.5759,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557872,
+          "lat_max": 21.557994,
+          "lng_min": 39.183368,
+          "lng_max": 39.18349
+        },
+        "name": "1801 Aisle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "18 Home organisation",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183319,
+              21.558022
+            ],
+            [
+              39.183336,
+              21.558024
+            ],
+            [
+              39.183347,
+              21.557972
+            ],
+            [
+              39.183368,
+              21.557975
+            ],
+            [
+              39.183371,
+              21.557953
+            ],
+            [
+              39.183328,
+              21.557946
+            ],
+            [
+              39.183334,
+              21.557915
+            ],
+            [
+              39.18324,
+              21.557899
+            ],
+            [
+              39.183237,
+              21.557913
+            ],
+            [
+              39.183201,
+              21.557907
+            ],
+            [
+              39.183195,
+              21.557929
+            ],
+            [
+              39.183256,
+              21.55794
+            ],
+            [
+              39.183259,
+              21.557925
+            ],
+            [
+              39.183306,
+              21.557933
+            ],
+            [
+              39.1833,
+              21.557963
+            ],
+            [
+              39.18333,
+              21.557969
+            ],
+            [
+              39.183319,
+              21.558022
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 69.3988,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557899,
+          "lat_max": 21.558024,
+          "lng_min": 39.183195,
+          "lng_max": 39.183371
+        },
+        "name": "1802 Aisle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "18 Home organisation",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183195,
+              21.557929
+            ],
+            [
+              39.183066,
+              21.557907
+            ],
+            [
+              39.183071,
+              21.557881
+            ],
+            [
+              39.182996,
+              21.557869
+            ],
+            [
+              39.182988,
+              21.557907
+            ],
+            [
+              39.182957,
+              21.557901
+            ],
+            [
+              39.182946,
+              21.557957
+            ],
+            [
+              39.182929,
+              21.557953
+            ],
+            [
+              39.18294,
+              21.557898
+            ],
+            [
+              39.182945,
+              21.557876
+            ],
+            [
+              39.182969,
+              21.55788
+            ],
+            [
+              39.182976,
+              21.557842
+            ],
+            [
+              39.183099,
+              21.557863
+            ],
+            [
+              39.183094,
+              21.557888
+            ],
+            [
+              39.183201,
+              21.557907
+            ],
+            [
+              39.183195,
+              21.557929
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 97.2724,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557842,
+          "lat_max": 21.557957,
+          "lng_min": 39.182929,
+          "lng_max": 39.183201
+        },
+        "name": "10 Aisle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "10 Lighting",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.18294,
+              21.557898
+            ],
+            [
+              39.182795,
+              21.557873
+            ],
+            [
+              39.182817,
+              21.557765
+            ],
+            [
+              39.182841,
+              21.557768
+            ],
+            [
+              39.182824,
+              21.557855
+            ],
+            [
+              39.182942,
+              21.557875
+            ],
+            [
+              39.182945,
+              21.557876
+            ],
+            [
+              39.18294,
+              21.557898
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 63.5901,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557765,
+          "lat_max": 21.557898,
+          "lng_min": 39.182795,
+          "lng_max": 39.182945
+        },
+        "name": "13 Aisle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "13 Rugs",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182817,
+              21.557765
+            ],
+            [
+              39.182841,
+              21.557768
+            ],
+            [
+              39.182857,
+              21.557688
+            ],
+            [
+              39.182818,
+              21.557682
+            ],
+            [
+              39.182831,
+              21.557618
+            ],
+            [
+              39.182807,
+              21.557614
+            ],
+            [
+              39.182789,
+              21.557699
+            ],
+            [
+              39.182829,
+              21.557706
+            ],
+            [
+              39.182817,
+              21.557765
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 51.3101,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557614,
+          "lat_max": 21.557768,
+          "lng_min": 39.182789,
+          "lng_max": 39.182857
+        },
+        "name": "16 Aisles",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "16 Decoration",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.182807,
+              21.557614
+            ],
+            [
+              39.182831,
+              21.557618
+            ],
+            [
+              39.18284,
+              21.55757
+            ],
+            [
+              39.182904,
+              21.557581
+            ],
+            [
+              39.182919,
+              21.55751
+            ],
+            [
+              39.182931,
+              21.557448
+            ],
+            [
+              39.182864,
+              21.557436
+            ],
+            [
+              39.182875,
+              21.55738
+            ],
+            [
+              39.182877,
+              21.557364
+            ],
+            [
+              39.182849,
+              21.557358
+            ],
+            [
+              39.18283,
+              21.557453
+            ],
+            [
+              39.182903,
+              21.557466
+            ],
+            [
+              39.182895,
+              21.557504
+            ],
+            [
+              39.182885,
+              21.557555
+            ],
+            [
+              39.18282,
+              21.557544
+            ],
+            [
+              39.182807,
+              21.557614
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 113.2005,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557358,
+          "lat_max": 21.557618,
+          "lng_min": 39.182807,
+          "lng_max": 39.182931
+        },
+        "name": "16 Aisles",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "16 Decoration",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183356,
+              21.557762
+            ],
+            [
+              39.18331,
+              21.557754
+            ],
+            [
+              39.183304,
+              21.557783
+            ],
+            [
+              39.183193,
+              21.557763
+            ],
+            [
+              39.183198,
+              21.557736
+            ],
+            [
+              39.183151,
+              21.557728
+            ],
+            [
+              39.183155,
+              21.557705
+            ],
+            [
+              39.183227,
+              21.557718
+            ],
+            [
+              39.183221,
+              21.557745
+            ],
+            [
+              39.183284,
+              21.557757
+            ],
+            [
+              39.18329,
+              21.557728
+            ],
+            [
+              39.183362,
+              21.557741
+            ],
+            [
+              39.183358,
+              21.557763
+            ],
+            [
+              39.183356,
+              21.557762
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 70.4707,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557705,
+          "lat_max": 21.557783,
+          "lng_min": 39.183151,
+          "lng_max": 39.183362
+        },
+        "name": "11 Aisle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "11 Bed and bath textiles",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183151,
+              21.557728
+            ],
+            [
+              39.183155,
+              21.557705
+            ],
+            [
+              39.183064,
+              21.557689
+            ],
+            [
+              39.183058,
+              21.55772
+            ],
+            [
+              39.183007,
+              21.557711
+            ],
+            [
+              39.183027,
+              21.55761
+            ],
+            [
+              39.183003,
+              21.557606
+            ],
+            [
+              39.182993,
+              21.557654
+            ],
+            [
+              39.182947,
+              21.557646
+            ],
+            [
+              39.182945,
+              21.557656
+            ],
+            [
+              39.182991,
+              21.557665
+            ],
+            [
+              39.182978,
+              21.557729
+            ],
+            [
+              39.183079,
+              21.557747
+            ],
+            [
+              39.183085,
+              21.557716
+            ],
+            [
+              39.183151,
+              21.557728
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 89.1876,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557606,
+          "lat_max": 21.557747,
+          "lng_min": 39.182945,
+          "lng_max": 39.183155
+        },
+        "name": "12 Aisle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "12 Home textiles",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183003,
+              21.557606
+            ],
+            [
+              39.183027,
+              21.55761
+            ],
+            [
+              39.18305,
+              21.557496
+            ],
+            [
+              39.183122,
+              21.557508
+            ],
+            [
+              39.183112,
+              21.557576
+            ],
+            [
+              39.183167,
+              21.557585
+            ],
+            [
+              39.183172,
+              21.557563
+            ],
+            [
+              39.183137,
+              21.557557
+            ],
+            [
+              39.183151,
+              21.557491
+            ],
+            [
+              39.18303,
+              21.55747
+            ],
+            [
+              39.183003,
+              21.557606
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 91.0721,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.55747,
+          "lat_max": 21.55761,
+          "lng_min": 39.183003,
+          "lng_max": 39.183172
+        },
+        "name": "14 Aisle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "14 Cooking",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.183172,
+              21.557563
+            ],
+            [
+              39.183167,
+              21.557585
+            ],
+            [
+              39.183232,
+              21.557596
+            ],
+            [
+              39.183242,
+              21.557546
+            ],
+            [
+              39.183296,
+              21.557555
+            ],
+            [
+              39.183301,
+              21.557528
+            ],
+            [
+              39.183223,
+              21.557515
+            ],
+            [
+              39.183212,
+              21.55757
+            ],
+            [
+              39.183172,
+              21.557563
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "geodesic_area": 50.1634,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_min": 21.557515,
+          "lat_max": 21.557596,
+          "lng_min": 39.183167,
+          "lng_max": 39.183301
+        },
+        "name": "15 Aisle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "15 Eating",
+        "parent_2": "Markethall",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    }
+  ]
+}
